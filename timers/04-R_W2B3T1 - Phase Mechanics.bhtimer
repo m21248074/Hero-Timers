@@ -1,0 +1,119 @@
+{
+  "id": "htp.raid.w2.b3.phaseMechanics.normal",
+  "name": "W2 - Salvation Pass\nMatthias Gabriel\nPhase Mechanics",
+  "category": "Heart of Thorns",
+  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\nActivate the hotkey when Matthias reaches 40% health.\n• Failed Reflect Hotkey ( Trigger Key 3 )\nActivate the hotkey anytime after a reflect\nis failed for *Human* Matthias.\n---Displays---\n• Human Matthias' Shield & Blood Shards.\n• Human Matthias' Shards of Rage (Jump) attack.\n• Blood Sacrifices.\n• Becoming an Abomination.\n• Abom Matthias' Elemental Phases.\n• Abom Matthias' Spreads.\n• Spirit spawns.",
+  "author": "\nQuitarHero.1645",
+  "icon": "Assets/Raids/W2B3/Matthias.png",
+  "map": 1149,
+  "reset": { "position": [-150.5, 149.9, 131.5], "radius": 35,
+    "requireDeparture": true
+  },
+  "phases": [
+    {
+      "name": "Phase Mechanics 1",
+      "start": { "position": [-150.5, 149.9, 131.5], "radius": 35,
+        "requireEntry": true, "requireCombat": true
+      },
+      "finish": { "position": [-150.5, 149.9, 131.5], "radius": 35,
+        "type": "key", "keyBind": "0",
+        "requireEntry": true
+      },
+      "alerts": [
+        //Start
+        { "alert": "Timer: Phase Mecahnics", "fillColor": [194, 45, 45, 0],
+          "alertDuration": 4, "timestamps": [0],
+          "icon": "Assets/Raids/W2B3/Matthias.png"
+        },
+        //Blood Shield (37.42s / 28.8s)
+        { "warning": "Blood Shield", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
+          "warningDuration": 2.07, "timestamps": [2.07, 39.49, 76.91, 114.33, 151.75, 189.17, 226.59, 264.01, 301.43, 338.85, 376.27, 413.69, 451.11, 488.53, 525.95, 563.37, 600.79, 638.21, 675.63, 713.05, 750.47, 787.89, 825.31, 862.73, 900.15, 937.57, 974.99, 1012.41, 1049.83, 1087.25, 1124.67, 1162.09, 1199.51],
+          "icon": "Assets/Raids/W2B3/Blood_Shield.png"
+        },
+        { "warning": "Blood Shards", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
+          "warningDuration": 6.55, "timestamps": [8.62, 46.04, 83.46, 120.88, 158.3, 195.72, 233.14, 270.56, 307.98, 345.4, 382.82, 420.24, 457.66, 495.08, 532.5, 569.92, 607.34, 644.76, 682.18, 719.6, 757.02, 794.44, 831.86, 869.28, 906.7, 944.12, 981.54, 1018.96, 1056.38, 1093.8, 1131.22, 1168.64, 1206.06],
+          "icon": "Assets/Raids/W2B3/Blood_Shards.png"
+        },
+        { "warning": "Next: Blood Shield", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
+          "warningDuration": 11.4, "timestamps": [37.42, 74.84, 112.26, 149.68, 187.1, 224.52, 261.94, 299.36, 336.78, 374.2, 411.62, 449.04, 486.46, 523.88, 561.3, 598.72, 636.14, 673.56, 710.98, 748.4, 785.82, 823.24, 860.66, 898.08, 935.5, 972.92, 1010.34, 1047.76, 1085.18, 1122.6, 1160.02, 1197.44, 1234.86],
+          "icon": "Assets/Raids/W2B3/Blood_Shield.png"
+        },
+        //Shards of Rage (Threw together quickly)
+        { "warning": "Next: Shards of Rage", "alert": "Shards of Rage", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
+          "warningDuration": 14.4, "alertDuration": 3, "timestamps": [23.02, 60.44, 97.86, 135.28, 172.7, 210.12, 247.54, 284.96, 322.38, 359.8, 397.22, 434.64, 472.06, 509.48, 546.9, 584.32, 621.74, 659.16, 696.58, 734, 771.42, 808.84, 846.26, 883.68, 921.1, 958.52, 995.94, 1033.36, 1070.78, 1108.2, 1145.62, 1183.04, 1220.46],
+          "icon": "Assets/Raids/W2B3/Blood_Shards.png"
+        },
+        //Sacrifices
+        { "warning": "Next: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+          "warningDuration": 15, "timestamps": [15],
+          "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
+        },
+        { "warning": "Next: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+          "warningDuration": 30, "timestamps": [60, 105, 150, 195, 240, 285, 330, 375, 420, 465, 510, 555, 600],
+          "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
+        },
+        { "warning": "Prepare: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+          "warningDuration": 5, "timestamps": [20, 65, 110, 155, 200, 245, 290, 335, 380, 425, 470, 515, 560, 605],
+          "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
+        },
+        { "warning": "Sacrifice!", "fillColor": [30, 153, 156, 0],
+          "warningDuration": 10, "timestamps": [30, 75, 120, 165, 210, 255, 300, 345, 390, 435, 480, 525, 570, 615],
+          "icon": "Assets/General/Defiance.png"
+        }
+      ],
+      "actions": [
+        //'Time' is just 37.42 (time between shields) - 9.35 (avg time between blood shards w/ fail reflect)
+        { "name": "Failed Reflect", "type": "skipTime", "sets": ["Failed_Reflect"], "time": 28.07,
+          "trigger": {
+            "position": [-150.5, 149.9], "radius": 35,
+            "type": "key", "keyBind": "3", "requireEntry": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phase Mechanics 2",
+      "start": { "position": [-150.5, 149.9, 131.5], "radius": 35,
+        "requireEntry": true
+      },
+      "finish": { "position": [-150.5, 149.9, 131.5], "radius": 35,
+        "type": "key", "keyBind": "0",
+        "requireEntry": true
+      },
+      "alerts": [
+        //Unstable
+        { "warning": "Becoming Unstable", "fillColor": [255, 0, 0, 0],
+          "warningDuration": 8.71, "timestamps": [8.71],
+          "icon": "Assets/Raids/W2B3/Abomination.png"
+        },
+        //Elemental Phases
+        { "warning": "Next: Snowstorm", "alert": "Snowstorm", "fillColor": [118, 243, 245, 0],
+          "warningDuration": 30, "alertDuration": 30, "timestamps": [-0.5, 89.5, 179.5, 269.5, 359.5, 449.5, 539.5],
+          "icon": "Assets/Raids/W2B3/Snowstorm.png"
+        },
+        { "warning": "Next: Heat Wave", "alert": "Heat Wave", "fillColor": [242, 78, 7, 0],
+          "warningDuration": 30, "alertDuration": 30, "timestamps": [29.5, 119.5, 209.5, 299.5, 389.5, 479.5, 569.5],
+          "icon": "Assets/Raids/W2B3/Heat_Wave.png"
+        },
+        { "warning": "Next: Downpour", "alert": "Downpour", "fillColor": [10, 173, 81, 0],
+          "warningDuration": 30, "alertDuration": 30, "timestamps": [59.5, 149.5, 239.5, 329.5, 419.5, 509.5, 599.5],
+          "icon": "Assets/Raids/W2B3/Downpour.png"
+        },
+        //Spirits
+        { "warning": "Next: Spirit", "alert": "Surrender!", "fillColor": [21, 124, 209, 0],
+          "warningDuration": 15, "alertDuration": 15, "timestamps": [15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 405, 420, 435, 450, 465, 480, 495, 510, 525, 540, 555, 570, 585, 600],
+          "icon": "Assets/Raids/W2B3/Spirit.png"
+        },
+        //Zealous Benediction (Spreads) (21s interval)
+        { "warning": "Next: Zealous Benediction", "alert": "Spread!", "fillColor": [158, 119, 13, 0],
+          "warningDuration": 4.55, "alertDuration": 5, "timestamps": [4.55],
+          "icon": "Assets/Raids/W2B3/Default.png"
+        },
+        { "warning": "Next: Zealous Benediction", "alert": "Spread!", "fillColor": [158, 119, 13, 0],
+          "warningDuration": 16, "alertDuration": 5, "timestamps": [25.55, 46.55, 67.55, 88.55, 109.55, 130.55, 151.55, 172.55, 193.55, 214.55, 235.55, 256.55, 277.55, 298.55, 319.55, 340.55, 361.55, 382.55, 403.55, 424.55, 445.55, 466.55, 487.55, 508.55, 529.55, 550.55, 571.55, 592.55],
+          "icon": "Assets/Raids/W2B3/Default.png"
+        }
+      ]
+    }
+  ]
+}
