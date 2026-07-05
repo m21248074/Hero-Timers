@@ -4,7 +4,7 @@
   "category": "Heart of Thorns",
   "description": "• Type: Automatic\n---Displays---\n• When each boss spawns.\n• When saboteurs spawn.\n• When mortars spawn.",
   "author": "\nQuitarHero.1645",
-  "icon": "Assets/Raids/W2B2-Narella.png",
+  "icon": "Assets/Raids/W2B2/Narella.png",
   "map": 1149,
   "reset": { "position": [128.7512, -89.64924, 61.711], "radius": 30,
     "requireEntry": true, "requireOutOfCombat": true
@@ -22,50 +22,50 @@
       "alerts": [
         { "alert": "Timer: Global Mechanics", "fillColor": [194, 45, 45, 0],
           "alertDuration": 4, "timestamps": [0],
-          "icon": "Assets/Raids/W2B2-Narella.png"
+          "icon": "Assets/Raids/W2B2/Narella.png"
         },
         //Boss Spawns
         { "warning": "Spawn: Berg", "fillColor": [194, 45, 45, 0],
           "warningDuration": 127.7, "timestamps": [127.7],
-          "icon": "Assets/Raids/W2B2-Berg.png"
+          "icon": "Assets/Raids/W2B2/Berg.png"
         },
         { "warning": "Spawn: Zane", "fillColor": [194, 45, 45, 0],
           "warningDuration": 95.5, "timestamps": [250],
-          "icon": "Assets/Raids/W2B2-Zane.png"
+          "icon": "Assets/Raids/W2B2/Zane.png"
         },
         { "warning": "Spawn: Narella", "fillColor": [194, 45, 45, 0],
           "warningDuration": 97, "timestamps": [372],
-          "icon": "Assets/Raids/W2B2-Narella.png"
+          "icon": "Assets/Raids/W2B2/Narella.png"
         },
         //Saboteurs
         { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
           "warningDuration": 32, "timestamps": [307],
-          "icon": "Assets/Raids/Saboteur.png"
+          "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
         { "warning": "Next: Saboteur", "alert": "Saboteur Soon", "fillColor": [194, 45, 45, 0],
           "warningDuration": 31, "alertDuration": 8, "timestamps": [399],
-          "icon": "Assets/Raids/Saboteur.png"
+          "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
         { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
           "warningDuration": 30.5, "timestamps": [337.5, 368],
-          "icon": "Assets/Raids/Saboteur.png"
+          "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
         { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
           "warningDuration": 26.8, "timestamps": [154.5],
-          "icon": "Assets/Raids/Saboteur.png"
+          "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
         //Mortars
         { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
           "warningDuration": 60, "timestamps": [215],
-          "icon": "Assets/Raids/Mortar.png"
+          "icon": "Assets/Raids/W2B2/Mortar.png"
         },
         { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
           "warningDuration": 28, "timestamps": [335],
-          "icon": "Assets/Raids/Mortar.png"
+          "icon": "Assets/Raids/W2B2/Mortar.png"
         },
         { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
           "warningDuration": 25, "timestamps": [275],
-          "icon": "Assets/Raids/Mortar.png"
+          "icon": "Assets/Raids/W2B2/Mortar.png"
         }
       ]
     }
