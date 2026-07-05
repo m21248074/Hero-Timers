@@ -1,0 +1,47 @@
+{
+  "id": "htp.raid.w3.b2.magicBlast",
+  "name": "W3 - Stronghold of the Faithful\nKeep Construct\nMagic Blast",
+  "category": "Heart of Thorns",
+  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate when KC reaches 66% / 33% health.\n---Displays---\n• Magic Blast duration.",
+  "author": "\nQuitarHero.1645",
+  "icon": "Assets/Raids/W3B2/Keep_Construct.png",
+  "map": 1156,
+  "reset": { "position": [-97.05944, 373.0963, 141.2715], "radius": 5,
+    "requireEntry": true, "requireOutOfCombat": true
+  },
+  "phases": [
+    { 
+      "name": "Magic Blast",
+      "start": { "position": [-93.66, 236.535, 150.151], "radius": 36,
+        "type": "key", "keyBind": "0",
+        "requireEntry": true
+      },
+      "finish": { "position": [-93.66, 236.535, 150.151], "radius": 36,
+        "type": "key", "keyBind": "0",
+        "requireEntry": true
+      },
+      "alerts": [
+        { "warning": "Magic Blast", "fillColor": [171, 15, 191, 0],
+          "warningDuration": 37.83, "timestamps": [37.33],
+          "icon": "Assets/Raids/W3B2/Keep_Construct.png"
+        }
+      ]
+    },
+    { 
+      "name": "Magic Blast",
+      "start": { "position": [-93.66, 236.535, 150.151], "radius": 36,
+        "requireEntry": true
+      },
+      "finish": { "position": [-93.66, 236.535, 150.151], "radius": 36,
+        "type": "key", "keyBind": "0",
+        "requireEntry": true
+      },
+      "alerts": [
+        { "warning": "Magic Blast", "fillColor": [171, 15, 191, 0],
+          "warningDuration": 37.83, "timestamps": [37.33],
+          "icon": "Assets/Raids/W3B2/Keep_Construct.png"
+        }
+      ]
+    },
+  ]
+}
