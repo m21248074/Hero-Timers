@@ -4,7 +4,7 @@
   "category": "Heart of Thorns",
   "description": "• Type: Automatic\n---Displays---\n• When Jade Scouts/Soldiers get shields.",
   "author": "\nQuitarHero.1645",
-  "icon": "Assets/Raids/MO.png",
+  "icon": "Assets/Raids/W4B2/Mursaat_Overseer.png",
   "map": 1188,
   "reset": { "position": [98.835, 132.927, 100.187], "antipode": [35.145, 69.167, 115.19],
     "requireDeparture": true
@@ -19,16 +19,16 @@
         //Timer Start
         { "alert": "Timer: Dispel", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
-          "icon": "Assets/Raids/MO.png"
+          "icon": "Assets/Raids/W4B2/Mursaat_Overseer.png"
         },
         //The actual Dispel mechanic
         { "warning": "Next: Shield", "alert": "Dispel now", "fillColor": [202, 175, 92, 0],
           "warningDuration": 10, "alertDuration": 5, "timestamps": [10],
-          "icon": "Assets/Raids/Dispel.png"
+          "icon": "Assets/Raids/W4B2/Dispel.png"
         },
         { "warning": "Next: Shield", "alert": "Dispel now", "fillColor": [202, 175, 92, 0],
           "warningDuration": 20, "alertDuration": 5, "timestamps": [35, 60, 85, 110, 135, 160, 185, 210, 235, 260, 285, 310, 335, 360],
-          "icon": "Assets/Raids/Dispel.png"
+          "icon": "Assets/Raids/W4B2/Dispel.png"
         }
       ]
     }
