@@ -1,0 +1,229 @@
+{
+  "id": "htp.raid.w4.b3.challenge",
+  "name": "W4 - Bastion of the Penitent\nSamarog CM\nGlobal Mechanics",
+  "category": "Heart of Thorns",
+  "description": "• Type: Automatic\n---Displays---\n• When Spears impact.\n• When Spear Return happens.\n• When Inevitable Betrayal happens.\n• How long until Inevitable Betrayal completes.\n• Markers for future spear impacts.",
+  "author": "\nQuitarHero.1645",
+  "icon": "Assets/Raids/W4B3/Samarog-CM.png",
+  "map": 1188,
+  "reset": { "position": [-99.6, 78.0, 129.5], "radius": 55,
+    "requireDeparture": true
+  },
+  "phases": [
+    {
+      "name": "Challenge Mode",
+      "start": { "position": [-99.6, 78.0, 129.5], "radius": 55,
+        "requireEntry": true, "requireCombat": true
+      },
+      "alerts": [
+        //Timer Start
+        { "alert": "Timer: Challenge Mode", "fillColor": [202, 175, 92, 0],
+          "alertDuration": 4, "timestamps": [0],
+          "icon": "Assets/Raids/W4B3/Samarog.png"
+        },
+        //Spear Impacts
+        { "warning": "Spear Impact (1/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 6, "timestamps": [6],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (1/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [71, 136, 201, 266, 331, 396, 461, 526, 591],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (2/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [11, 76, 141, 206, 271, 336, 401, 466, 531, 596],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (3/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [16, 81, 146, 211, 276, 341, 406, 471, 536, 601],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (4/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [21, 86, 151, 216, 281, 346, 411, 476, 541, 606],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (5/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [26, 91, 156, 221, 286, 351, 416, 481, 546, 611],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (6/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [31, 96, 161, 226, 291, 356, 421, 486, 551, 616],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (7/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [36, 101, 166, 231, 296, 361, 426, 491, 556, 621],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (8/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [41, 106, 171, 236, 301, 366, 431, 496, 561, 626],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (9/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [46, 111, 176, 241, 306, 371, 436, 501, 566, 631],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (10/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [51, 116, 181, 246, 311, 376, 441, 506, 571, 636],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (11/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [56, 121, 186, 251, 316, 381, 446, 511, 576, 641],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        { "warning": "Spear Impact (12/12)", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [61, 126, 191, 256, 321, 386, 451, 516, 581, 646],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        //Spear Return
+        { "warning": "Spear Return", "fillColor": [202, 175, 92, 0],
+          "warningDuration": 5, "timestamps": [66, 131, 196, 261, 326, 391, 456, 521, 586, 651],
+          "icon": "Assets/Raids/W4B3/Spear.png"
+        },
+        //Inevitable Betrayal
+        { "warning": "Next: Inevitable Betrayal", "fillColor": [158, 109, 25, 0],
+          "warningDuration": 18, "timestamps": [25, 49, 73, 97, 121, 145, 169, 193, 217, 241, 265, 289, 313, 337, 361, 385, 409, 433, 457, 481, 505, 529, 553, 577, 601, 625, 649],
+          "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
+        },
+        { "warning": "Move", "fillColor": [158, 109, 25, 0],
+          "warningDuration": 7, "timestamps": [7],
+          "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
+        },
+        { "warning": "Move", "fillColor": [158, 109, 25, 0],
+          "warningDuration": 6, "timestamps": [31, 55, 79, 103, 127, 151, 175, 199, 223, 247, 271, 295, 319, 343, 367, 391, 415, 439, 463, 487, 511, 535, 559, 583, 607, 631, 655],
+          "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
+        }
+      ],
+      "markers": [
+        //Spear Impact #1
+        { "position": [-99.9579, 88.3492, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/1.png", "duration": 6, "timestamps": [0]
+        },
+        { "position": [-99.9579, 88.3492, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/1.png", "duration": 10, "timestamps": [61, 126, 191, 256, 321, 386, 451, 516, 581]
+        },
+        { "position": [-99.9579, 88.3492, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [56, 121, 186, 251, 316, 381, 446, 511, 576]
+        },
+        { "position": [-99.9579, 88.3492, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [61, 126, 191, 256, 321, 386, 451, 516, 581]
+        },
+        //Spear Impact #2
+        { "position": [-100.077, 68.0541, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/2.png", "duration": 10, "timestamps": [1, 66, 131, 196, 261, 326, 391, 456, 521, 586]
+        },
+        { "position": [-100.077, 68.0541, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 6, "timestamps": [0]
+        },
+        { "position": [-100.077, 68.0541, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [61, 126, 191, 256, 321, 386, 451, 516, 581]
+        },
+        { "position": [-100.077, 68.0541, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [66, 131, 196, 261, 326, 391, 456, 521, 586]
+        },
+        //Spear Impact #3
+        { "position": [-100.291, 47.5306, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/3.png", "duration": 10, "timestamps": [6, 71, 136, 201, 266, 331, 396, 461, 526, 591]
+        },
+        { "position": [-100.291, 47.5306, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 6, "timestamps": [0]
+        },
+        { "position": [-100.291, 47.5306, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [66, 131, 196, 261, 326, 391, 456, 521, 586]
+        },
+        { "position": [-100.291, 47.5306, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [6, 71, 136, 201, 266, 331, 396, 461, 526, 591]
+        },
+        //Spear Impact #4
+        { "position": [-81.6473, 48.7055, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/4.png", "duration": 10, "timestamps": [11, 76, 141, 206, 271, 336, 401, 466, 531, 596]
+        },
+        { "position": [-81.6473, 48.7055, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [6, 71, 136, 201, 266, 331, 396, 461, 526, 591]
+        },
+        { "position": [-81.6473, 48.7055, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [11, 76, 141, 206, 271, 336, 401, 466, 531, 596]
+        },
+        //Spear Impact #5
+        { "position": [-80.8687, 68.2828, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/5.png", "duration": 10, "timestamps": [16, 81, 146, 211, 276, 341, 406, 471, 536, 601]
+        },
+        { "position": [-80.8687, 68.2828, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [11, 76, 141, 206, 271, 336, 401, 466, 531, 596]
+        },
+        { "position": [-80.8687, 68.2828, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [16, 81, 146, 211, 276, 341, 406, 471, 536, 601]
+        },
+        //Spear Impact #6
+        { "position": [-80.1187, 87.1555, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/6.png", "duration": 10, "timestamps": [21, 86, 151, 216, 281, 346, 411, 476, 541, 606]
+        },
+        { "position": [-80.1187, 87.1555, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [16, 81, 146, 211, 276, 341, 406, 471, 536, 601]
+        },
+        { "position": [-80.1187, 87.1555, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [21, 86, 151, 216, 281, 346, 411, 476, 541, 606]
+        },
+        //Spear Impact #7
+        { "position": [-79.5845, 106.197, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/7.png", "duration": 10, "timestamps": [26, 91, 156, 221, 286, 351, 416, 481, 546, 611]
+        },
+        { "position": [-79.5845, 106.197, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [21, 86, 151, 216, 281, 346, 411, 476, 541, 606]
+        },
+        { "position": [-79.5845, 106.197, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [26, 91, 156, 221, 286, 351, 416, 481, 546, 611]
+        },
+        //Spear Impact #8
+        { "position": [-99.0345, 108.038, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/8.png", "duration": 10, "timestamps": [31, 96, 161, 226, 291, 356, 421, 486, 551, 616]
+        },
+        { "position": [-99.0345, 108.038, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [26, 91, 156, 221, 286, 351, 416, 481, 546, 611]
+        },
+        { "position": [-99.0345, 108.038, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [31, 96, 161, 226, 291, 356, 421, 486, 551, 616]
+        },
+        //Spear Impact #9
+        { "position": [-118.275, 108.482, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/9.png", "duration": 10, "timestamps": [36, 101, 166, 231, 296, 361, 426, 491, 556, 621]
+        },
+        { "position": [-118.275, 108.482, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [31, 96, 161, 226, 291, 356, 421, 486, 551, 616]
+        },
+        { "position": [-118.275, 108.482, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [36, 101, 166, 231, 296, 361, 426, 491, 556, 621]
+        },
+        //Spear Impact #10
+        { "position": [-119.001, 88.5207, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/10.png", "duration": 10, "timestamps": [41, 106, 171, 236, 301, 366, 431, 496, 561, 626]
+        },
+        { "position": [-119.001, 88.5207, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [36, 101, 166, 231, 296, 361, 426, 491, 556, 621]
+        },
+        { "position": [-119.001, 88.5207, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [41, 106, 171, 236, 301, 366, 431, 496, 561, 626]
+        },
+        //Spear Impact #11
+        { "position": [-119.412, 67.7453, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/11.png", "duration": 10, "timestamps": [46, 111, 176, 241, 306, 371, 436, 501, 566, 631]
+        },
+        { "position": [-119.412, 67.7453, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [41, 106, 171, 236, 301, 366, 431, 496, 561, 626]
+        },
+        { "position": [-119.412, 67.7453, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [46, 111, 176, 241, 306, 371, 436, 501, 566, 631]
+        },
+        //Spear Impact #12
+        { "position": [-119.615, 46.3155, 130.52], "size": 1.75,
+          "texture": "Assets/Numbers/12.png", "duration": 10, "timestamps": [51, 116, 181, 246, 311, 376, 441, 506, 571, 636]
+        },
+        { "position": [-119.615, 46.3155, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.25,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [46, 111, 176, 241, 306, 371, 436, 501, 566, 631]
+        },
+        { "position": [-119.615, 46.3155, 129.42], "rotation": [180,0,0], "size": 16.3, "fadeCenter": true, "opacity": 0.5,
+          "texture": "Assets/Shapes/Orb5-orange.png", "duration": 5, "timestamps": [51, 116, 181, 246, 311, 376, 441, 506, 571, 636]
+        }
+      ]
+    }
+  ]
+}
