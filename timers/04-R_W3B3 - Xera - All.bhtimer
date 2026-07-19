@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w3.b3.all",
-  "name": "W3 - Stronghold of the Faithful\nXera\nGlobal Mechanics",
+  "name": "W3 - 信仰要塞\n(Stronghold of the Faithful)\n琦拉(Xera) 一般機制",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When and where Gravity Wells spawn.\n• When the Laser spawns and despawns.\n• Tanking locations (via markers).",
+  "description": "• 類型: 自動\n---顯示---\n• 重力陷阱 (Gravity Wells) 出現的時間與地點。\n• 雷射出現與消失的時間。\n• 坦克位置 (透過標記)。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W3B3-Xera.png",
   "map": 1156,
@@ -19,19 +19,19 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "alert": "計時器: Phase 1", "fillColor": [154, 99, 167, 1],
+        { "alert": "計時器: 階段 1", "fillColor": [154, 99, 167, 1],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W3B3-Xera.png"
         },
-        { "warning": "Gravity Well soon", "alert": "Move", "fillColor": [154, 99, 167, 1],
+        { "warning": "即將出現重力陷阱", "alert": "移動", "fillColor": [154, 99, 167, 1],
           "warningDuration": 15, "alertDuration": 3, "timestamps": [30, 60, 90, 120, 150, 180, 210, 240, 270],
           "icon": "Assets/Raids/Gravity Well.png"
         },
-        { "warning": "Laser soon", "alert": "Move", "fillColor": [154, 99, 167, 1],
+        { "warning": "即將出現雷射", "alert": "移動", "fillColor": [154, 99, 167, 1],
           "warningDuration": 20, "alertDuration": 4, "timestamps": [40, 109, 178, 247],
           "icon": "Assets/Raids/W3B3-Xera.png"
         },
-        { "warning": "Laser ends soon", "fillColor": [154, 99, 167, 1],
+        { "warning": "雷射即將結束", "fillColor": [154, 99, 167, 1],
           "warningDuration": 10, "timestamps": [64, 133, 202, 271],
           "icon": "Assets/Raids/W3B3-Xera.png"
         }
@@ -196,19 +196,19 @@
         "requireDeparture": true
 	    },
       "alerts": [
-        { "alert": "Phase 2 Begin", "fillColor": [154, 99, 167, 1],
+        { "alert": "階段 2 開始", "fillColor": [154, 99, 167, 1],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W3B3-Xera.png"
         },
-        { "warning": "Gravity Well soon", "alert": "Move", "fillColor": [154, 99, 167, 1],
+        { "warning": "即將出現重力陷阱", "alert": "Move", "fillColor": [154, 99, 167, 1],
           "warningDuration": 10, "alertDuration": 3, "timestamps": [25, 50, 75, 100, 125, 150, 175, 200, 225, 250, 275, 300, 325, 350, 375, 400, 425, 450, 475, 500],
           "icon": "Assets/Raids/Gravity Well.png"
         },
-        { "warning": "Laser soon", "alert": "Move", "fillColor": [154, 99, 167, 1],
+        { "warning": "即將出現雷射", "alert": "Move", "fillColor": [154, 99, 167, 1],
           "warningDuration": 20, "alertDuration": 4, "timestamps": [40, 104, 168, 232, 296, 360, 424, 488],
           "icon": "Assets/Raids/W3B3-Xera.png"
         },
-        { "warning": "Laser ends soon", "fillColor": [154, 99, 167, 1],
+        { "warning": "雷射即將結束", "fillColor": [154, 99, 167, 1],
           "warningDuration": 10, "timestamps": [64, 128, 192, 256, 320, 384, 448, 512],
           "icon": "Assets/Raids/W3B3-Xera.png"
         }

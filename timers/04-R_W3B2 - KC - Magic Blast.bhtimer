@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w3.b2.magicBlast",
-  "name": "W3 - Stronghold of the Faithful\nKeep Construct\nMagic Blast",
+  "name": "W3 - 信仰要塞\n(Stronghold of the Faithful)\n要塞構造體(KC) 魔法爆沖(Magic Blast)",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when KC reaches 66% / 33% health.\n---顯示---\n• Magic Blast duration.",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 當 要塞構造體 (KC) 生命值降至 66% / 33% 時啟動。\n---顯示---\n• 魔法爆沖(Magic Blast)持續時間。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W3B2/Keep_Construct.png",
   "map": 1156,
@@ -21,7 +21,7 @@
         "requireEntry": true
       },
       "alerts": [
-        { "warning": "Magic Blast", "fillColor": [171, 15, 191, 0],
+        { "warning": "魔法爆沖", "fillColor": [171, 15, 191, 0],
           "warningDuration": 37.83, "timestamps": [37.33],
           "icon": "Assets/Raids/W3B2/Keep_Construct.png"
         }
@@ -37,7 +37,7 @@
         "requireEntry": true
       },
       "alerts": [
-        { "warning": "Magic Blast", "fillColor": [171, 15, 191, 0],
+        { "warning": "魔法爆沖", "fillColor": [171, 15, 191, 0],
           "warningDuration": 37.83, "timestamps": [37.33],
           "icon": "Assets/Raids/W3B2/Keep_Construct.png"
         }
