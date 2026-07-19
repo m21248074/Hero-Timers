@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b7.normal",
   "name": "Aetherblade Hideout\nInitial Boon Rip",
-  "category": "End of Dragons",
-  "description": "• Type: Automatic\n---Displays---\n• The 3 types of initial boon rips.",
+  "category": "巨龍絕境 (EoD)",
+  "description": "• 類型: 自動\n---顯示---\n• The 3 types of initial boon rips.",
   "author": "QuitarHero.1645",
   "icon": "Assets/Strikes/B7/B7-Default.png",
   "map": 1432,

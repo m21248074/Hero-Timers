@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.shackles",
   "name": "W5 - Hall of Chains\nDhuum\nShackles",
-  "category": "Path of Fire",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate when Dhuum reaches 60%.\n---Displays---\n• When shackles are applied.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when Dhuum reaches 60%.\n---顯示---\n• When shackles are applied.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumSH.png",
   "map": 1264,

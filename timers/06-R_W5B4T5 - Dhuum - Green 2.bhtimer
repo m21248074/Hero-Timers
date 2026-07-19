@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.green2",
   "name": "W5 - Hall of Chains\nDhuum\nGreen #2",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n• Note: The first green has no trail.\n---Displays---\n• When all greens happen.\n• Unique timings for Green #2 (with trails).\n• How long to collect orbs.\n• Where the next green is.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n• Note: The first green has no trail.\n---顯示---\n• When all greens happen.\n• Unique timings for Green #2 (with trails).\n• How long to collect orbs.\n• Where the next green is.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumG2.png",
   "map": 1264,

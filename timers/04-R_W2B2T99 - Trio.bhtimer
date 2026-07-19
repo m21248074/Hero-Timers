@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w2.b2",
-  "name": "W2 - Salvation Pass\nBandit Trio\nGlobal Mechanics",
-  "category": "Heart of Thorns",
-  "description": "• Type: Automatic\n---Displays---\n• When each boss spawns.\n• When saboteurs spawn.\n• When mortars spawn.",
+  "name": "W2 - 救贖小道(Salvation Pass)\nBandit Trio\nGlobal Mechanics",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 自動\n---顯示---\n• When each boss spawns.\n• When saboteurs spawn.\n• When mortars spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W2B2/Narella.png",
   "map": 1149,

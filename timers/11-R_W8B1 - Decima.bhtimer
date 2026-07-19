@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b1.all",
   "name": "W8 - Mount Balrior\nDecima, the Stormsinger\nBoss Attacks",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight entry.\n• Activate when Decima's breakbar is broken.\n(Will not be accurate if Decima's breakbar is not broken)\n---Disclaimer---\n• Decima takes variable time to re-tether conduits. Due to\nthis, the timer can become inaccurate by +/- 2 seconds.\n---Displays---\n• All of Decima's attacks.\n• When Peal of Harmony and Discord are consumed.\n• Approximately when Dancing Sparks spawn.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 進入戰鬥時自動啟用。\n• Activate when Decima's breakbar is broken.\n(Will not be accurate if Decima's breakbar is not broken)\n---Disclaimer---\n• Decima takes variable time to re-tether conduits. Due to\nthis, the timer can become inaccurate by +/- 2 seconds.\n---顯示---\n• All of Decima's attacks.\n• When Peal of Harmony and Discord are consumed.\n• Approximately when Dancing Sparks spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W8B1/W8B1.png",
   "map": 1564,

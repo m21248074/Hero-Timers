@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b13.normal",
   "name": "Temple of Febe\nBoss Attacks",
-  "category": "Secrets of the Obscure",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate Hotkey after split phases complete.\n• Note: Timer becomes inaccurate if Cerus gets\nQuickness/Alacrity, or if CC fails.\n--- Displays ---\n• Cerus's Attack Rotation",
+  "category": "天界之謎 (SotO)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\n• Activate Hotkey after split phases complete.\n• Note: Timer becomes inaccurate if Cerus gets\nQuickness/Alacrity, or if CC fails.\n---顯示---\n• Cerus's Attack Rotation",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B13/Cerus.png",
   "map": 1520,

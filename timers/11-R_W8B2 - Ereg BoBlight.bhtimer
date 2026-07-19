@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b2.ereg_blobsofblight",
   "name": "W8 - Mount Balrior\nEreg, the Enabler\nBlobs of Blight",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 2 )\n• Automatically begins on fight entry.\n• Activate when Ereg summons Blobs of Blight.\n---Disclaimer---\n• Ereg summons Blobs of Blight roughly every 80 seconds.\nIf Ereg summons Blobs of Blight while Greer is phasing at 65%/35%,\nit may be cancelled and Ereg will try to use it again as soon as possible.\n---Displays---\n• When Ereg will summon Blobs of Blight again.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• Type: Hotkey ( Trigger Key 2 )\n• 進入戰鬥時自動啟用。\n• Activate when Ereg summons Blobs of Blight.\n---Disclaimer---\n• Ereg summons Blobs of Blight roughly every 80 seconds.\nIf Ereg summons Blobs of Blight while Greer is phasing at 65%/35%,\nit may be cancelled and Ereg will try to use it again as soon as possible.\n---顯示---\n• When Ereg will summon Blobs of Blight again.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Ereg.png",
   "map": 1564,

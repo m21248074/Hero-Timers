@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b2.eruptionofrot",
   "name": "W8 - Mount Balrior\nGreer, the Blightbringer\nEruption of Rot",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 1 )\n• Automatically begins on fight entry.\n• Activate when Greer targets players for Eruption of Rot (greens).\n• Works for both Normal and Challenge modes.\n---Disclaimer---\n• Greer prioritizes Eruption of Rot after Blobs of Blight for\nP1 and 2, and at the start of P3.\nThis does not always happen, but will still be one of\nthe first few skills used at the start of each phase.\n---Displays---\n• When Greer will use Eruption of Rot again.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• Type: Hotkey ( Trigger Key 1 )\n• 進入戰鬥時自動啟用。\n• Activate when Greer targets players for Eruption of Rot (greens).\n• Works for both Normal and Challenge modes.\n---Disclaimer---\n• Greer prioritizes Eruption of Rot after Blobs of Blight for\nP1 and 2, and at the start of P3.\nThis does not always happen, but will still be one of\nthe first few skills used at the start of each phase.\n---顯示---\n• When Greer will use Eruption of Rot again.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Greer.png",
   "map": 1564,

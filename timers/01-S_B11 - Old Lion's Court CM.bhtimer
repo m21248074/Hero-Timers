@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b11.challenge",
   "name": "Old Lion's Court CM\nSpawns and Breakbars",
-  "category": "Core",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate Hotkey on Indigo death.\n• Note: It's normal if a CC spawn doesn't happen\non time. It doesn't affect future spawns.\n--- Displays ---\n• Puzzle and initial Watchknight spawns.\n• When Watchknights come down mid-fight.\n• How long to break a Watchknight.",
+  "category": "遊戲本體 (Core)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\n• Activate Hotkey on Indigo death.\n• Note: It's normal if a CC spawn doesn't happen\non time. It doesn't affect future spawns.\n---顯示---\n• Puzzle and initial Watchknight spawns.\n• When Watchknights come down mid-fight.\n• How long to break a Watchknight.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B11/B11-DefaultCM.png",
   "map": 1485,

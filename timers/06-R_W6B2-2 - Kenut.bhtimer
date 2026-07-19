@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b2.kenut",
   "name": "W6 - Mythwright Gambit\nTwin Largos\nKenut's Breakbars",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Kenut P2.\n---Displays---\n• When Kenut's breakbar can be broken.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Kenut P2.\n---顯示---\n• When Kenut's breakbar can be broken.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Kenut.png",
   "map": 1303,

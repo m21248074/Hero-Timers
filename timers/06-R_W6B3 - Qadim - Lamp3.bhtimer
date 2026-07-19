@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b3.lamp3",
   "name": "W6 - Mythwright Gambit\nQadim\nLamp #3",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n• Note: If using my Marker Pack, the\nfull red arrow markers are from the timer.\n---Displays---\n• The path to take for Lamp #3.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n• Note: If using my Marker Pack, the\nfull red arrow markers are from the timer.\n---顯示---\n• The path to take for Lamp #3.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Lamp.png",
   "map": 1303,

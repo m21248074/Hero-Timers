@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b14.waves",
   "name": "Kela, Seneschal of Waves\nScalding Waves",
-  "category": "Visions of Eternity",
-  "description": "• Type: Automatic\n---Displays---\n• When Scalding Waves happen.\n• Wave Boundaries.",
+  "category": "永恆願景 (VoE)",
+  "description": "• 類型: 自動\n---顯示---\n• When Scalding Waves happen.\n• Wave Boundaries.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B14/B14-Default.png",
   "map": 1609,

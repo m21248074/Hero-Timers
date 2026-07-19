@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b1.pushing",
   "name": "W5 - Hall of Chains\nSoulless Horror\nPushing",
-  "category": "Path of Fire",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate when SH reaches 90%.\n---Displays---\n• When each Messenger spawns.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when SH reaches 90%.\n---顯示---\n• When each Messenger spawns.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/SH.png",
   "map": 1264,

@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w1.b4.all",
   "name": "W1 - Spirit Vale\nSabetha the Saboteur\nAll Cannons",
-  "category": "Heart of Thorns",
-  "description": "• Type: Automatic\n---Displays---\n• When each cannon spawns.\n• Where to throw.",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 自動\n---顯示---\n• When each cannon spawns.\n• Where to throw.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W1B4/Sabetha.png",
   "map": 1062,

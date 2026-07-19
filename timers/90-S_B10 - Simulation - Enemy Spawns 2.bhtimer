@@ -1,7 +1,7 @@
 {
   "id": "htp.simulation.strike.b10.challenge.enemySpawns.two",
   "name": "[Addon] Harvest Temple CM\nVoid Skullpiercer Spawns",
-  "category": "Simulation",
+  "category": "模擬",
   "description": "• Type: Hotkey ( Trigger Keys 0 & 1 )\n• Enforces 'Reset Button' for timer reset.\n• Use 'Hotkey 1' to stop Skullpiercer spawn alerts.\n=== Displays ===\n• Purification 2 and Mordremoth's Skullpiercer spawn timings.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B10/Plush Mordy-Sim.png",

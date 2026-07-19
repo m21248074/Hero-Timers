@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b3.2_LCM_risingpressure",
   "name": "W8 - Mount Balrior\nGodscream Ura (LCM)\nRising Pressure",
-  "category": "Janthir Wilds",
-  "description": "• Type: Automatic\n• Automatically begins on fight start.\n---Displays---\n• When Ura receives Rising Pressure.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 自動\n• 戰鬥開始時自動啟用。\n---顯示---\n• When Ura receives Rising Pressure.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W8B3lcm.png",
   "map": 1564,

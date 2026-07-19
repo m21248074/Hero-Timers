@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b3.3_CM_toxicGeyserAlerts",
   "name": "W8 - Mount Balrior\nGodscream Ura (CM)\nToxic Geyser - Alerts",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate when:\n  • Ura spawns Phase 2's 1st toxic geyser in the middle of the arena.\n(marked with a dot + border when timer starts)\n  • Ura reaches 40% health.\n---Displays---\n• When the next toxic geyser spawns.\n• Where the 1st geyser for Phase 2 will spawn.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\n• Activate when:\n  • Ura spawns Phase 2's 1st toxic geyser in the middle of the arena.\n(marked with a dot + border when timer starts)\n  • Ura reaches 40% health.\n---顯示---\n• When the next toxic geyser spawns.\n• Where the 1st geyser for Phase 2 will spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W8B3cm.png",
   "map": "1564",

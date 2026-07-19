@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b14.executors",
   "name": "Kela, Seneschal of Waves\nExecutor of Waves spawns",
-  "category": "Visions of Eternity",
-  "description": "• Type: Hotkey (Trigger Key 0)\n• Automatically begins on combat start.\n• Activate when Kela unburrows / storm phase ends.\n--- Displays ---\n• When Executor of Waves spawn.",
+  "category": "永恆願景 (VoE)",
+  "description": "• Type: Hotkey (Trigger Key 0)\n• Automatically begins on combat start.\n• Activate when Kela unburrows / storm phase ends.\n---顯示---\n• When Executor of Waves spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B14/B14-Default.png",
   "map": 1609,

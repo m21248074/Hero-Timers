@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b3.1_risingpressure",
   "name": "W8 - Mount Balrior\nUra, the Steamshrieker\nRising Pressure",
-  "category": "Janthir Wilds",
-  "description": "• Type: Automatic\n• Automatically begins on fight start.\n• Works for both Normal and Challenge modes.\n---Displays---\n• When Ura receives Rising Pressure.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 自動\n• 戰鬥開始時自動啟用。\n• Works for both Normal and Challenge modes.\n---顯示---\n• When Ura receives Rising Pressure.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Ura.png",
   "map": 1564,

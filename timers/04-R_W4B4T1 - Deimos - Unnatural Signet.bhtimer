@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b4.signet",
   "name": "W4 - Bastion of the Penitent\nDeimos\nUnnatural Signet",
-  "category": "Heart of Thorns",
-  "description": "• Type: Hotkey ( Trigger Key 1 )\n• Activate when Unnatural Signet is applied\nthe first time.\n• This timer assumes 0% alacrity.\n---Displays---\n• How long Unnatural Signet lasts.\n• How long until the next Unnatural Signet.",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• Type: Hotkey ( Trigger Key 1 )\n• Activate when Unnatural Signet is applied\nthe first time.\n• This timer assumes 0% alacrity.\n---顯示---\n• How long Unnatural Signet lasts.\n• How long until the next Unnatural Signet.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B4/Saul.png",
   "map": 1188,

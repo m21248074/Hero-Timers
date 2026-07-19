@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b3.6_LCM_toxicGeyserMarkers",
   "name": "W8 - Mount Balrior\nGodscream Ura (LCM)\nToxic Gesyer - Markers & Trails",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 0 ) \n• Automatically begins on fight start.\n• Activate when:\n  • Ura spawns Phase 2's 1st toxic geyser in the middle of the arena.\n(marked with a dot + border when timer starts)\n  • Ura reaches 40% health.\n---Displays---\n• Where the next 2 toxic geysers will spawn.\n• Where the 1st geyser in each phase will spawn.\n• A trail from you to the next toxic geyser spawn.\n• The range that the SAK can be used in.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 ) \n• 戰鬥開始時自動啟用。\n• Activate when:\n  • Ura spawns Phase 2's 1st toxic geyser in the middle of the arena.\n(marked with a dot + border when timer starts)\n  • Ura reaches 40% health.\n---顯示---\n• Where the next 2 toxic geysers will spawn.\n• Where the 1st geyser in each phase will spawn.\n• A trail from you to the next toxic geyser spawn.\n• The range that the SAK can be used in.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W8B3lcm.png",
   "map": "1564",

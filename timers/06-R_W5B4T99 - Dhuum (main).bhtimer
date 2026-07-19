@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.all",
   "name": "W5 - Hall of Chains\nDhuum\nBoss Attacks, Spawns, Afflictions",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n---Displays---\n• When Death Mark happens.\n• When Greater Death Mark happens.\n• When Enforcers and Dhuum spawn.\n• When Afflictions begin and can be held.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n---顯示---\n• When Death Mark happens.\n• When Greater Death Mark happens.\n• When Enforcers and Dhuum spawn.\n• When Afflictions begin and can be held.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Dhuum.png",
   "map": 1264,

@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w2.b3.all.normal",
-  "name": "W2 - Salvation Pass\nMatthias Gabrel\nGlobal Mechanics",
-  "category": "Heart of Thorns",
-  "description": "• Type: Automatic\n---Displays---\n• Corruption applications.",
+  "name": "W2 - 救贖小道(Salvation Pass)\nMatthias Gabrel\nGlobal Mechanics",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 自動\n---顯示---\n• Corruption applications.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W2B3/Matthias.png",
   "map": 1149,

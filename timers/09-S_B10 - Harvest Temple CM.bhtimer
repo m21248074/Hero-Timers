@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b10.challenge",
   "name": "Harvest Temple CM\nGlobal Mechanics",
-  "category": "End of Dragons",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate when a Heart or Dragon dies.\n---Displays---\n• Greens/Spread/Void Pools.\n• Mechanical Markers.\n• Heart Damage Pulses.\n• Dragon Attacks.\n• and much more.",
+  "category": "巨龍絕境 (EoD)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\n• Activate when a Heart or Dragon dies.\n---顯示---\n• Greens/Spread/Void Pools.\n• Mechanical Markers.\n• Heart Damage Pulses.\n• Dragon Attacks.\n• and much more.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B10/B10-DefaultCM.png",
   "map": 1437,

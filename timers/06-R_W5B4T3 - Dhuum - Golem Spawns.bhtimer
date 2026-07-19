@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.golems",
   "name": "W5 - Hall of Chains\nDhuum\nMessenger Spawns",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n• Note #1: Messenger spawn timings are\nvariable, and as such are averaged.\n• Note #2: Medium Orb collections\naffect Messenger spawn positions.\nUse the number in \"[#/#]\" to keep track.\n---Displays---\n• When each Messenger spawns.\n• Markers for Messenger spawn positions.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n• Note #1: Messenger spawn timings are\nvariable, and as such are averaged.\n• Note #2: Medium Orb collections\naffect Messenger spawn positions.\nUse the number in \"[#/#]\" to keep track.\n---顯示---\n• When each Messenger spawns.\n• Markers for Messenger spawn positions.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumMS.png",
   "map": 1264,

@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w3.b2.magicBlast",
   "name": "W3 - Stronghold of the Faithful\nKeep Construct\nMagic Blast",
-  "category": "Heart of Thorns",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate when KC reaches 66% / 33% health.\n---Displays---\n• Magic Blast duration.",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when KC reaches 66% / 33% health.\n---顯示---\n• Magic Blast duration.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W3B2/Keep_Construct.png",
   "map": 1156,

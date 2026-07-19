@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.allGreens",
   "name": "W5 - Hall of Chains\nDhuum\nAll Greens",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n---Displays---\n• When all Greens happen.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n---顯示---\n• When all Greens happen.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumGA.png",
   "map": 1264,

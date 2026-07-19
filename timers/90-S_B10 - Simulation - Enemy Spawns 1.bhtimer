@@ -1,8 +1,8 @@
 {
   "id": "htp.simulation.strike.b10.challenge.enemySpawns.one",
   "name": "[Addon] Harvest Temple CM\nStormseer and Soo-Won Spawns",
-  "category": "Simulation",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Enforces 'Reset Button' for timer reset.\n---Displays---\n• Jormag's Stormseer spawn timings.\n• Soo-Won's Enemy spawn timings.",
+  "category": "模擬",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Enforces 'Reset Button' for timer reset.\n---顯示---\n• Jormag's Stormseer spawn timings.\n• Soo-Won's Enemy spawn timings.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B10/Void-Sim.png",
   "map": 1437,

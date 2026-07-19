@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b1.numberedgreens",
   "name": "W4 - Bastion of the Penitent\nCairn the Indomitable\nNumbered Greens",
-  "category": "Heart of Thorns",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate anytime when Cairn reaches\nsoft-phasing thresholds (75% / 50% / 25%).\n---Notice---\n• Do not pre-stack on Numbered Greens;\nthe game does not register you inside the\ngreen if you do this. Walking in/out of it\nor having another player join you are\nwork-arounds if you do plan to pre-stack.\n---Displays---\n• Where the Numbered Greens will\nspawn for each soft-phase.",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate anytime when Cairn reaches\nsoft-phasing thresholds (75% / 50% / 25%).\n---Notice---\n• Do not pre-stack on Numbered Greens;\nthe game does not register you inside the\ngreen if you do this. Walking in/out of it\nor having another player join you are\nwork-arounds if you do plan to pre-stack.\n---顯示---\n• Where the Numbered Greens will\nspawn for each soft-phase.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B1/Cairn.png",
   "map": 1188,

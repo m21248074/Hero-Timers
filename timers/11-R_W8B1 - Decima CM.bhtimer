@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b1.cm",
   "name": "W8 - Mount Balrior\nGodsquall Decima\nBoss Attacks",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight entry.\n• Activate when:\n  • When Decima jumps for Split 1/2 and 10%.\n  • When Decima's Breakbar is broken.\n---Disclaimer---\n• Decima takes variable time to re-tether conduits and jump.\nDue to this, the timer can become inaccurate by +/- 3 seconds.\nAdditionally the Split phase timers expect the DPS check to succeed.\n---Displays---\n• All of Decima's attacks.\n• When Peal of Harmony and Discord are consumed.\n• How long to break the Transcendant Boulders.\n• When Dancing Sparks spawn.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 進入戰鬥時自動啟用。\n• Activate when:\n  • When Decima jumps for Split 1/2 and 10%.\n  • When Decima's Breakbar is broken.\n---Disclaimer---\n• Decima takes variable time to re-tether conduits and jump.\nDue to this, the timer can become inaccurate by +/- 3 seconds.\nAdditionally the Split phase timers expect the DPS check to succeed.\n---顯示---\n• All of Decima's attacks.\n• When Peal of Harmony and Discord are consumed.\n• How long to break the Transcendant Boulders.\n• When Dancing Sparks spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W8B1/W8B1cm.png",
   "map": 1564,

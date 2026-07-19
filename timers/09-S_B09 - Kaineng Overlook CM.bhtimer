@@ -1,8 +1,8 @@
 {
   "id": "htp.strike.b9.challenge",
   "name": "Kaineng Overlook CM\nGlobal Mechanics",
-  "category": "End of Dragons",
-  "description": "• Type: Automatic\n• Begins when entering Li's platform.\n• Please zipline first or with the group\nfor best accuracy.\n---Displays---\n• All of Normal Mode's features.\n• Higher amount of existing mechanics.\n• When Li twitches in P1.\n• Fixates in Trio Phase.\n• Other CM-specific mechanics.",
+  "category": "巨龍絕境 (EoD)",
+  "description": "• 類型: 自動\n• Begins when entering Li's platform.\n• Please zipline first or with the group\nfor best accuracy.\n---顯示---\n• All of Normal Mode's features.\n• Higher amount of existing mechanics.\n• When Li twitches in P1.\n• Fixates in Trio Phase.\n• Other CM-specific mechanics.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Strikes/B9/B9-DefaultCM.png",
   "map": 1451,

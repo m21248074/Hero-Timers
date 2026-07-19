@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w8.b2.ereg_eruptionofrot",
   "name": "W8 - Mount Balrior\nEreg, the Enabler\nEruption of Rot",
-  "category": "Janthir Wilds",
-  "description": "• Type: Hotkey ( Trigger Key 3 )\n• Automatically begins on fight entry.\n• Activate when Ereg targets a player for Eruption of Rot (greens).\n---Disclaimer---\n• Ereg uses Eruption of Rot roughly every 80 seconds.\nIf Ereg uses Eruption of Rot while Greer is phasing at 65%/35%,\nit may be cancelled and Ereg will try to use it again as soon as possible.\n---Displays---\n• When Ereg will use Eruption of Rot again.",
+  "category": "珍瑟荒野 (JW)",
+  "description": "• Type: Hotkey ( Trigger Key 3 )\n• 進入戰鬥時自動啟用。\n• Activate when Ereg targets a player for Eruption of Rot (greens).\n---Disclaimer---\n• Ereg uses Eruption of Rot roughly every 80 seconds.\nIf Ereg uses Eruption of Rot while Greer is phasing at 65%/35%,\nit may be cancelled and Ereg will try to use it again as soon as possible.\n---顯示---\n• When Ereg will use Eruption of Rot again.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Ereg.png",
   "map": 1564,

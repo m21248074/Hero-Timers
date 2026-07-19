@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b2.nikare",
   "name": "W6 - Mythwright Gambit\nTwin Largos\nNikare's Breakbars",
-  "category": "Path of Fire",
-  "description": "• Type: Automatic\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Nikare P2.\n---Displays---\n• When Nikare's breakbar can be broken.",
+  "category": "烈焰征途 (PoF)",
+  "description": "• 類型: 自動\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Nikare P2.\n---顯示---\n• When Nikare's breakbar can be broken.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Nikare.png",
   "map": 1303,

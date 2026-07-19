@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w1.b4.first.all",
   "name": "W1 - Spirit Vale\nSabetha the Saboteur\nCannon 1/3",
-  "category": "Heart of Thorns",
-  "description": "• Type: Automatic\n---Displays---\n• When each cannon spawns.\n• Where to throw.\n• Unique timings for 1/3 cannon spawns (with trails).\n› \"Prepare\" warnings are for your cannons.",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 自動\n---顯示---\n• When each cannon spawns.\n• Where to throw.\n• Unique timings for 1/3 cannon spawns (with trails).\n› \"Prepare\" warnings are for your cannons.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W1B4/Sabetha13.png",
   "map": 1062,

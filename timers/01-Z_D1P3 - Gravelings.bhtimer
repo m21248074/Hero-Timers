@@ -1,8 +1,8 @@
 {
   "id": "htp.dungeon.d1.p3.gravelings",
   "name": "Ascalonian Catacombs P3\nGravelings",
-  "category": "Core",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Activate when the event starts.\n---Displays---\n• When and where gravelings spawn.",
+  "category": "遊戲本體 (Core)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when the event starts.\n---顯示---\n• When and where gravelings spawn.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Dungeons/D1-Default.png",
   "map": 36,

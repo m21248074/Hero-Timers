@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w2.b3.phaseMechanics.normal",
-  "name": "W2 - Salvation Pass\nMatthias Gabriel\nPhase Mechanics",
-  "category": "Heart of Thorns",
-  "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\nActivate the hotkey when Matthias reaches 40% health.\n• Failed Reflect Hotkey ( Trigger Key 3 )\nActivate the hotkey anytime after a reflect\nis failed for *Human* Matthias.\n---Displays---\n• Human Matthias' Shield & Blood Shards.\n• Human Matthias' Shards of Rage (Jump) attack.\n• Blood Sacrifices.\n• Becoming an Abomination.\n• Abom Matthias' Elemental Phases.\n• Abom Matthias' Spreads.\n• Spirit spawns.",
+  "name": "W2 - 救贖小道(Salvation Pass)\nMatthias Gabriel\nPhase Mechanics",
+  "category": "決戰邁古瑪 (HoT)",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\nActivate the hotkey when Matthias reaches 40% health.\n• Failed Reflect Hotkey ( Trigger Key 3 )\nActivate the hotkey anytime after a reflect\nis failed for *Human* Matthias.\n---顯示---\n• Human Matthias' Shield & Blood Shards.\n• Human Matthias' Shards of Rage (Jump) attack.\n• Blood Sacrifices.\n• Becoming an Abomination.\n• Abom Matthias' Elemental Phases.\n• Abom Matthias' Spreads.\n• Spirit spawns.",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W2B3/Matthias.png",
   "map": 1149,
