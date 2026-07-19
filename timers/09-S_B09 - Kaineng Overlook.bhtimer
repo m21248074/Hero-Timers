@@ -20,7 +20,7 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Phase 1",
+        { "alert": "計時器: Phase 1",
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -73,7 +73,7 @@
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
         //Enforcer's Rushing Justice (Dashes and Spin)
-        { "warning": "Next: Rushing Justice", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Rushing Justice", "fillColor": [160, 212, 231, 0],
           "warningDuration": 10, "timestamps": [12, 83, 135, 186, 237, 288, 339, 390, 441, 492, 543, 594, 645, 696, 747, 798, 849, 900, 951, 1002],
           "icon": "Assets/Strikes/B9/Enforcer_Dash.png"
         },
@@ -86,7 +86,7 @@
           "icon": "Assets/Strikes/B9/Enforcer_Spin.png"
         },
         //Mindblade's Storm of Swords
-        { "warning": "Next: Storm of Swords", "fillColor": [154, 99, 167, 0],
+        { "warning": "下一波: Storm of Swords", "fillColor": [154, 99, 167, 0],
           "warningDuration": 10, "timestamps": [37, 87, 137, 188, 239, 290, 341, 392, 443, 494, 545, 596, 647, 698, 749, 800, 851, 902, 953, 1004],
           "icon": "Assets/Strikes/B9/Mindblade_Rain.png"
         },
@@ -95,7 +95,7 @@
           "icon": "Assets/Strikes/B9/Mindblade_Rain.png"
         },
         //The Enforcer's Heaven's Palm (Spread)
-        { "warning": "Next: Heaven's Palm", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Heaven's Palm", "fillColor": [160, 212, 231, 0],
           "warningDuration": 10, "timestamps": [65, 101, 162, 203, 264, 305, 366, 407, 468, 509, 570, 611, 672, 713, 774, 815, 876, 917, 978, 1019],
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
@@ -104,7 +104,7 @@
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
         //The Ritualist's Volatile Expulsions
-        { "warning": "Next: Volatile Expulsion", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Volatile Expulsion", "fillColor": [93, 120, 89, 0],
           "warningDuration": 10, "timestamps": [49, 112, 163, 214, 265, 316, 367, 418, 469, 520, 571, 622, 673, 724, 775, 826, 877, 928, 979],
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
@@ -238,7 +238,7 @@
           "icon": "Assets/Strikes/B9/DS-Wave.png"
         },
         //Next Mechanics
-        { "alert": "Next: Wave, Spread",
+        { "alert": "下一波: Wave, Spread",
           "alertDuration": 6, "timestamps": [2.5, 15.5, 28.5, 41, 82.5, 95.5, 108.5, 121, 162.5, 175.5, 188.5, 201, 242.5, 255.5, 268.5, 281, 322.5, 335.5, 348.5, 361, 402.5, 415.5, 428.5, 441, 482.5, 495.5, 508.5, 521, 562.5, 575.5, 588.5, 601, 642.5, 655.5, 668.5, 681, 722.5, 735.5, 748.5, 761, 802.5, 815.5, 828.5, 841, 882.5, 895.5, 908.5, 921, 962.5, 975.5, 988.5, 1001],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -323,7 +323,7 @@
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
         //The Mech Rider's Pushback Attack
-        { "warning": "Next: Pushback + Mines", "fillColor": [146, 107, 41, 0],
+        { "warning": "下一波: Pushback + Mines", "fillColor": [146, 107, 41, 0],
           "warningDuration": 7, "timestamps": [12.5, 172, 334.5, 494, 653.5, 813, 972.5],
           "icon": "Assets/Strikes/B9/Mech_Attack.png"
         },
@@ -332,7 +332,7 @@
           "icon": "Assets/Strikes/B9/Mech_Attack.png"
         },
         //The Mech Rider's Jade Buster Cannon
-        { "warning": "Next: Jade Buster Cannon", "fillColor": [146, 107, 41, 0],
+        { "warning": "下一波: Jade Buster Cannon", "fillColor": [146, 107, 41, 0],
           "warningDuration": 5, "timestamps": [44, 120, 204, 280, 364, 440, 524, 600, 684, 760, 844, 920, 1004],
           "icon": "Assets/Strikes/B9/Mech_JBC.png"
         },
@@ -345,7 +345,7 @@
           "icon": "Assets/Strikes/B9/Mech_JBC.png"
         },
         //The Mech Rider's Explosive Uppercuts
-        { "warning": "Next: Explosive Uppercuts", "fillColor": [146, 107, 41, 0],
+        { "warning": "下一波: Explosive Uppercuts", "fillColor": [146, 107, 41, 0],
           "warningDuration": 7, "timestamps": [88.5, 248.5, 408.5, 568.5, 728.5, 888.5],
           "icon": "Assets/Strikes/B9/Mech_Explosive-Uppercut.png"
         },
@@ -366,7 +366,7 @@
           "icon": "Assets/Strikes/B9/4.png"
         },
         //The Sniper's Teleports
-        { "warning": "Next: Sniper Ports", "icon": "Assets/Strikes/B9/Sniper_Port.png",
+        { "warning": "下一波: Sniper Ports", "icon": "Assets/Strikes/B9/Sniper_Port.png",
           "warningDuration": 14, "timestamps": [28, 60.5, 104, 144.5, 188, 220.5, 264, 304.5, 348, 380.5, 424, 464.5, 508, 540.5, 584, 624.5, 668, 700.5, 744, 784.5, 828, 860.5, 904, 944.5, 988, 1020.5],
           "fillColor": [77, 83, 121, 0]
         },
@@ -433,7 +433,7 @@
           "icon": "Assets/Strikes/B9/3.png"
         },
         //Next Mechanics
-        { "alert": "Next: Wave, Spread",
+        { "alert": "下一波: Wave, Spread",
           "alertDuration": 6, "timestamps": [28, 66.5, 79.5, 123, 161.5, 174.5, 218, 256.5, 269.5, 313, 351.5, 364.5, 408, 446.5, 459.5, 503, 541.5, 554.5, 598, 636.5, 649.5, 693, 731.5, 744.5, 788, 826.5, 839.5, 883, 921.5, 934.5, 978, 1016.5, 1029, 1073],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },

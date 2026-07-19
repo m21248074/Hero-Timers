@@ -17,7 +17,7 @@
       },
       "alerts": [
         //Timer Start Notification
-        { "alert": "Timer: Cairn (Shared Agony)", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: Cairn (Shared Agony)", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B1/Cairn.png"
         },

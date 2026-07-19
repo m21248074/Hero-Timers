@@ -20,7 +20,7 @@
         "requireEntry": true
       },
       "alerts": [
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 4, "alertDuration": 600, "timestamps": [4],
           "icon": "Assets/Raids/Greer.png"
         }
@@ -40,7 +40,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Greer.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
           "warningDuration": 110, "alertDuration": 600, "timestamps": [120],
           "icon": "Assets/Raids/Greer.png"
         }
@@ -60,7 +60,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Greer.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
           "warningDuration": 110, "alertDuration": 600, "timestamps": [120],
           "icon": "Assets/Raids/Greer.png"
         }
@@ -80,7 +80,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Greer.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
           "warningDuration": 110, "alertDuration": 600, "timestamps": [120],
           "icon": "Assets/Raids/Greer.png"
         }
@@ -100,7 +100,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Greer.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
           "warningDuration": 110, "alertDuration": 600, "timestamps": [120],
           "icon": "Assets/Raids/Greer.png"
         }
@@ -120,7 +120,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Greer.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon / After Split Phase", "fillColor": [33, 184, 17, 0],
           "warningDuration": 110, "alertDuration": 600, "timestamps": [120],
           "icon": "Assets/Raids/Greer.png"
         }

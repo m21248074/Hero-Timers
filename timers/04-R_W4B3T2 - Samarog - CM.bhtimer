@@ -17,7 +17,7 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Challenge Mode", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: Challenge Mode", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B3/Samarog.png"
         },
@@ -80,7 +80,7 @@
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
         //Inevitable Betrayal
-        { "warning": "Next: Inevitable Betrayal", "fillColor": [158, 109, 25, 0],
+        { "warning": "下一波: Inevitable Betrayal", "fillColor": [158, 109, 25, 0],
           "warningDuration": 18, "timestamps": [25, 49, 73, 97, 121, 145, 169, 193, 217, 241, 265, 289, 313, 337, 361, 385, 409, 433, 457, 481, 505, 529, 553, 577, 601, 625, 649],
           "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
         },

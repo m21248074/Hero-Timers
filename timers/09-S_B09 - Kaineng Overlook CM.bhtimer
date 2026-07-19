@@ -20,7 +20,7 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Phase 1",
+        { "alert": "計時器: Phase 1",
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -34,15 +34,15 @@
           "icon": "Assets/Strikes/B9/DS-Wave.png"
         },
         //Next Attack Sets
-        { "warning": "Next: Wave, Green",
+        { "warning": "下一波: Wave, Green",
           "warningDuration": 8, "timestamps": [14.5, 59.5, 104.5, 149.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Wave, Green",
+        { "warning": "下一波: Wave, Green",
           "warningDuration": 4.5, "timestamps": [45, 90, 135],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst",
+        { "warning": "下一波: Burst",
           "warningDuration": 9, "timestamps": [27.5, 72.5, 117.5, 162.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -133,7 +133,7 @@
           "icon": "Assets/Strikes/B9/Fixated.png"
         },
         //Shared Destruction
-        { "warning": "Next: Shared Destruction", "fillColor": [71, 165, 65, 1],
+        { "warning": "下一波: Shared Destruction", "fillColor": [71, 165, 65, 1],
           "warningDuration": 6, "timestamps": [65, 128, 179, 230, 281, 332, 383, 434, 485],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -142,15 +142,15 @@
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
         //Enforcer's Rushing Justice (Dashes and Spin)
-        { "warning": "Next: Rushing Justice", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Rushing Justice", "fillColor": [160, 212, 231, 0],
           "warningDuration": 10, "timestamps": [22],
           "icon": "Assets/Strikes/B9/Enforcer_Dash.png"
         },
-        { "warning": "Next: Rushing Justice", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Rushing Justice", "fillColor": [160, 212, 231, 0],
           "warningDuration": 13, "timestamps": [94],
           "icon": "Assets/Strikes/B9/Enforcer_Dash.png"
         },
-        { "warning": "Next: Rushing Justice", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Rushing Justice", "fillColor": [160, 212, 231, 0],
           "warningDuration": 7, "timestamps": [145, 196, 247, 298, 349, 400, 451],
           "icon": "Assets/Strikes/B9/Enforcer_Dash.png"
         },
@@ -163,15 +163,15 @@
           "icon": "Assets/Strikes/B9/Enforcer_Spin.png"
         },
         //Enforcer's Heaven's Palm (Spread)
-        { "warning": "Next: Heaven's Palm", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Heaven's Palm", "fillColor": [160, 212, 231, 0],
           "warningDuration": 11, "timestamps": [172, 274, 376, 478],
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
-        { "warning": "Next: Heaven's Palm", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Heaven's Palm", "fillColor": [160, 212, 231, 0],
           "warningDuration": 16, "timestamps": [75],
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
-        { "warning": "Next: Heaven's Palm", "fillColor": [160, 212, 231, 0],
+        { "warning": "下一波: Heaven's Palm", "fillColor": [160, 212, 231, 0],
           "warningDuration": 17, "timestamps": [111, 213, 315, 417],
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
@@ -180,11 +180,11 @@
           "icon": "Assets/Strikes/B9/Enforcer_Palm.png"
         },
         //Ritualist's Volatile Expulsions
-        { "warning": "Next: Volatile Expulsion (edges)", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Volatile Expulsion (edges)", "fillColor": [93, 120, 89, 0],
           "warningDuration": 10, "timestamps": [59],
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
-        { "warning": "Next: Volatile Expulsion (edges)", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Volatile Expulsion (edges)", "fillColor": [93, 120, 89, 0],
           "warningDuration": 12, "timestamps": [173, 275, 377, 479],
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
@@ -192,7 +192,7 @@
           "warningDuration": 15, "timestamps": [74, 188, 290, 392, 494],
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
-        { "warning": "Next: Volatile Expulsion (stack)", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Volatile Expulsion (stack)", "fillColor": [93, 120, 89, 0],
           "warningDuration": 5, "timestamps": [122, 224, 326, 428],
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
@@ -201,11 +201,11 @@
           "icon": "Assets/Strikes/B9/Ritualist.png"
         },
         //Ritualist's Lightning Storm
-        { "warning": "Next: Lightning Storm (boon rip)", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Lightning Storm (boon rip)", "fillColor": [93, 120, 89, 0],
           "warningDuration": 5, "timestamps": [15],
           "icon": "Assets/Strikes/B9/Ritualist_Storm.png"
         },
-        { "warning": "Next: Lightning Storm (boon rip)", "fillColor": [93, 120, 89, 0],
+        { "warning": "下一波: Lightning Storm (boon rip)", "fillColor": [93, 120, 89, 0],
           "warningDuration": 15, "timestamps": [109, 160, 211, 262, 313, 364, 415, 466],
           "icon": "Assets/Strikes/B9/Ritualist_Storm.png"
         },
@@ -214,11 +214,11 @@
           "icon": "Assets/Strikes/B9/Ritualist_Storm.png"
         },
         //Mindblade's Storm of Swords
-        { "warning": "Next: Storm of Swords", "fillColor": [154, 99, 167, 0],
+        { "warning": "下一波: Storm of Swords", "fillColor": [154, 99, 167, 0],
           "warningDuration": 18, "timestamps": [99],
           "icon": "Assets/Strikes/B9/Mindblade_Storm.png"
         },
-        { "warning": "Next: Storm of Swords", "fillColor": [154, 99, 167, 0],
+        { "warning": "下一波: Storm of Swords", "fillColor": [154, 99, 167, 0],
           "warningDuration": 12, "timestamps": [201, 303, 405],
           "icon": "Assets/Strikes/B9/Mindblade_Storm.png"
         },
@@ -227,11 +227,11 @@
           "icon": "Assets/Strikes/B9/Mindblade_Storm.png"
         },
         //Mindblade's Rain of Blades
-        { "warning": "Next: Rain of Blades", "fillColor": [154, 99, 167, 0],
+        { "warning": "下一波: Rain of Blades", "fillColor": [154, 99, 167, 0],
           "warningDuration": 11, "timestamps": [49],
           "icon": "Assets/Strikes/B9/Mindblade_Rain.png"
         },
-        { "warning": "Next: Rain of Blades", "fillColor": [154, 99, 167, 0],
+        { "warning": "下一波: Rain of Blades", "fillColor": [154, 99, 167, 0],
           "warningDuration": 18, "timestamps": [163, 265, 367, 469],
           "icon": "Assets/Strikes/B9/Mindblade_Rain.png"
         },
@@ -546,23 +546,23 @@
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
         //Next Mechanics
-        { "warning": "Next: Wave, Green",
+        { "warning": "下一波: Wave, Green",
           "warningDuration": 9, "timestamps": [8.5, 88.5, 168.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Wave, Spread",
+        { "warning": "下一波: Wave, Spread",
           "warningDuration": 6.5, "timestamps": [21.5, 47, 101.5, 127, 181.5, 207],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Wave, Green",
+        { "warning": "下一波: Wave, Green",
           "warningDuration": 7.5, "timestamps": [34, 114, 194],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst",
+        { "warning": "下一波: Burst",
           "warningDuration": 7.5, "timestamps": [59.5, 139.5, 219.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Rush",
+        { "warning": "下一波: Rush",
           "warningDuration": 7, "timestamps": [79.5, 159.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
@@ -679,47 +679,47 @@
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
         //Next Mechanics
-        { "warning": "Next: Pushback, Spread (4), Green",
+        { "warning": "下一波: Pushback, Spread (4), Green",
           "warningDuration": 14, "timestamps": [22],
           "icon": "Assets/Strikes/B9/Mech_Attack.png"
         },
-        { "warning": "Next: Pushback, Spread (4), Green",
+        { "warning": "下一波: Pushback, Spread (4), Green",
           "warningDuration": 9.5, "timestamps": [182.5],
           "icon": "Assets/Strikes/B9/Mech_Attack.png"
         },
-        { "warning": "Next: Pushback, Spread (4), Green",
+        { "warning": "下一波: Pushback, Spread (4), Green",
           "warningDuration": 10, "timestamps": [343],
           "icon": "Assets/Strikes/B9/Mech_Attack.png"
         },
-        { "warning": "Next: Ricochet Shots, Spread (All)",
+        { "warning": "下一波: Ricochet Shots, Spread (All)",
           "warningDuration": 10, "timestamps": [359],
           "icon": "Assets/Strikes/B9/Sniper_Ricochet-Shot.png"
         },
-        { "warning": "Next: Ricochet Shots, Spread (All)",
+        { "warning": "下一波: Ricochet Shots, Spread (All)",
           "warningDuration": 10.5, "timestamps": [199],
           "icon": "Assets/Strikes/B9/Sniper_Ricochet-Shot.png"
         },
-        { "warning": "Next: Ricochet Shots, Spread (All)",
+        { "warning": "下一波: Ricochet Shots, Spread (All)",
           "warningDuration": 11, "timestamps": [39],
           "icon": "Assets/Strikes/B9/Sniper_Ricochet-Shot.png"
         },
-        { "warning": "Next: Ricochet Shots, Spread (All)",
+        { "warning": "下一波: Ricochet Shots, Spread (All)",
           "warningDuration": 17, "timestamps": [115, 275, 435],
           "icon": "Assets/Strikes/B9/Sniper_Ricochet-Shot.png"
         },
-        { "warning": "Next: Jade Buster Cannon, Spread",
+        { "warning": "下一波: Jade Buster Cannon, Spread",
           "warningDuration": 10, "timestamps": [54, 130, 214, 290, 374, 450],
           "icon": "Assets/Strikes/B9/Mech_JBC.png"
         },
-        { "warning": "Next: Jade Laser Shot",
+        { "warning": "下一波: Jade Laser Shot",
           "warningDuration": 9.5, "timestamps": [70.5, 230.5, 390.5],
           "icon": "Assets/Strikes/B9/Sniper_Laser-Shot.png"
         },
-        { "warning": "Next: Jade Laser Shot",
+        { "warning": "下一波: Jade Laser Shot",
           "warningDuration": 17.5, "timestamps": [154.5, 314.5, 474.5],
           "icon": "Assets/Strikes/B9/Sniper_Laser-Shot.png"
         },
-        { "warning": "Next: Explosive Uppercuts",
+        { "warning": "下一波: Explosive Uppercuts",
           "warningDuration": 9, "timestamps": [98, 258, 418],
           "icon": "Assets/Strikes/B9/Mech_Explosive-Uppercut.png"
         },
@@ -920,23 +920,23 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Next Mechanics
-        { "warning": "Next: Wave, Spread, Green",
+        { "warning": "下一波: Wave, Spread, Green",
           "warningDuration": 11, "timestamps": [32.5, 69, 123, 159.5, 213.5, 250, 304, 340.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst, Spread",
+        { "warning": "下一波: Burst, Spread",
           "warningDuration": 4.5, "timestamps": [99, 189.5, 280],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst, Spread",
+        { "warning": "下一波: Burst, Spread",
           "warningDuration": 8.5, "timestamps": [8.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst, Green",
+        { "warning": "下一波: Burst, Green",
           "warningDuration": 9, "timestamps": [45, 135.5, 226, 316.5],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         },
-        { "warning": "Next: Burst, Spread, Green",
+        { "warning": "下一波: Burst, Spread, Green",
           "warningDuration": 9.5, "timestamps": [81.5, 172, 262.5, 353],
           "icon": "Assets/Strikes/B9/B9-Default.png"
         }

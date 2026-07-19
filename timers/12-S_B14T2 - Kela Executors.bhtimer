@@ -21,7 +21,7 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Executor of Waves Spawns",
+        { "alert": "計時器: Executor of Waves Spawns",
           "alertDuration": 5, "timestamps": [0],
           "icon": "Assets/Strikes/B14/B14-Default.png"
         },

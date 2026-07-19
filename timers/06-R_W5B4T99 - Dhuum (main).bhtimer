@@ -17,7 +17,7 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Greens and Boss Attacks",
+        { "alert": "計時器: Greens and Boss Attacks",
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/Dhuum.png"
         },
@@ -54,7 +54,7 @@
         },
         // ========== BOSS ATTACKS ==========
         //Death Mark
-        { "warning": "Next: Death Mark", "fillColor": [67, 120, 89, 1],
+        { "warning": "下一波: Death Mark", "fillColor": [67, 120, 89, 1],
           "warningDuration": 25, "timestamps": [175, 255, 335, 415, 495, 575],
           "icon": "Assets/Raids/Death Mark.png"
         },
@@ -63,7 +63,7 @@
           "icon": "Assets/Raids/Death Mark.png"
         },
         //Greater Death Mark
-        { "warning": "Next: Greater Death Mark", "fillColor": [67, 120, 89, 1],
+        { "warning": "下一波: Greater Death Mark", "fillColor": [67, 120, 89, 1],
           "warningDuration": 37, "timestamps": [215, 295, 375, 455, 535],
           "icon": "Assets/Raids/Greater Death Mark.png"
         },
@@ -89,7 +89,7 @@
           "warningDuration": 10, "timestamps": [240],
           "icon": "Assets/Raids/Affliction.png"
         },
-        /*{ "warning": "Next: Affliction", "fillColor": [179, 105, 45, 1],
+        /*{ "warning": "下一波: Affliction", "fillColor": [179, 105, 45, 1],
           "warningDuration": 3, "timestamps": [166, 182, 198, 346, 362, 430, 526],
           "icon": "Assets/Raids/Affliction.png"
         },*/

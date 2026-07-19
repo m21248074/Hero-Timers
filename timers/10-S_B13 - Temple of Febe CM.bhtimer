@@ -74,52 +74,52 @@
         },
         // ========== Next Mechanical Notifications ==========
         //Rotation 1
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 11.3, "timestamps": [11.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 10, "timestamps": [21.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments",
+        { "warning": "下一波: Shadow", "set": "Embodiments",
           "warningDuration": 10, "timestamps": [21.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 10, "timestamps": [31.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 15, "timestamps": [46.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 20, "timestamps": [51.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments",
+        { "warning": "下一波: Pools", "set": "Embodiments",
           "warningDuration": 20, "timestamps": [51.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 16.5, "timestamps": [67.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 2
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 10.73, "timestamps": [78.53],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments",
           "warningDuration": 13.5, "timestamps": [81.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 10, "timestamps": [88.53],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 10, "timestamps": [98.53],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         }
@@ -249,97 +249,97 @@
         },
         // ========== Next Mechanical Notifications ==========
         //Rotation 1
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 3.8, "timestamps": [3.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 10, "timestamps": [13.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments",
           "warningDuration": 10.5, "timestamps": [14.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 10, "timestamps": [23.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Embodiments",
+        { "warning": "下一波: Gluttony", "set": "Embodiments",
           "warningDuration": 10, "timestamps": [33.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 15, "timestamps": [38.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 10, "timestamps": [43.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments",
+        { "warning": "下一波: Shadow", "set": "Embodiments",
           "warningDuration": 11, "timestamps": [54.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 16.5, "timestamps": [60.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 2
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 10.73, "timestamps": [71.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments",
+        { "warning": "下一波: Pools", "set": "Embodiments",
           "warningDuration": 14.5, "timestamps": [74.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 10, "timestamps": [81.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 10, "timestamps": [91.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments",
           "warningDuration": 14.77, "timestamps": [95.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 10.23, "timestamps": [106.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 15.23, "timestamps": [111.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Embodiments",
+        { "warning": "下一波: Green", "set": "Embodiments",
           "warningDuration": 8.77, "timestamps": [114.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 12.73, "timestamps": [127.53],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 3
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments",
           "warningDuration": 14.5, "timestamps": [134.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 10.73, "timestamps": [138.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 10, "timestamps": [148.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Embodiments",
+        { "warning": "下一波: Gluttony", "set": "Embodiments",
           "warningDuration": 15.54, "timestamps": [153.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 10, "timestamps": [158.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         }
@@ -482,154 +482,154 @@
         },
         // ========== Next Mechanical Notifications ==========
         //Rotation 1
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 3.8, "timestamps": [3.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments",
           "warningDuration": 9.3, "timestamps": [9.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 14.8, "timestamps": [14.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Embodiments",
+        { "warning": "下一波: Gluttony", "set": "Embodiments",
           "warningDuration": 9, "timestamps": [23.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 14, "timestamps": [28.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments",
+        { "warning": "下一波: Shadow", "set": "Embodiments",
           "warningDuration": 11, "timestamps": [39.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 16.5, "timestamps": [45.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments",
+        { "warning": "下一波: Pools", "set": "Embodiments",
           "warningDuration": 9.5, "timestamps": [54.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 11.5, "timestamps": [56.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 11.5, "timestamps": [61.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 2
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments",
           "warningDuration": 9, "timestamps": [70.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 9.23, "timestamps": [71.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 11, "timestamps": [82.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Embodiments",
+        { "warning": "下一波: Green", "set": "Embodiments",
           "warningDuration": 13.77, "timestamps": [84.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 11.23, "timestamps": [96.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments",
           "warningDuration": 14.5, "timestamps": [99.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 13.23, "timestamps": [112.53],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Embodiments",
+        { "warning": "下一波: Gluttony", "set": "Embodiments",
           "warningDuration": 14.5, "timestamps": [113.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 10.23, "timestamps": [124.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 11.5, "timestamps": [129.03],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments",
+        { "warning": "下一波: Shadow", "set": "Embodiments",
           "warningDuration": 12.27, "timestamps": [129.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 3
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 8.46, "timestamps": [138.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments",
+        { "warning": "下一波: Pools", "set": "Embodiments",
           "warningDuration": 10, "timestamps": [144.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 14.46, "timestamps": [149.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments",
           "warningDuration": 11.54, "timestamps": [160.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 14, "timestamps": [163.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Embodiments",
+        { "warning": "下一波: Green", "set": "Embodiments",
           "warningDuration": 11.54, "timestamps": [174.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Rage", "set": "Cerus",
+        { "warning": "下一波: Rage", "set": "Cerus",
           "warningDuration": 16.5, "timestamps": [179.76],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments",
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments",
           "warningDuration": 9.54, "timestamps": [189.3],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Cerus",
+        { "warning": "下一波: Shadow", "set": "Cerus",
           "warningDuration": 11.5, "timestamps": [191.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Cerus",
+        { "warning": "下一波: Pools", "set": "Cerus",
           "warningDuration": 16.5, "timestamps": [196.26],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
         //Rotation 4
-        { "warning": "Next: Gluttony", "set": "Embodiments",
+        { "warning": "下一波: Gluttony", "set": "Embodiments",
           "warningDuration": 7.54, "timestamps": [203.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Green", "set": "Cerus",
+        { "warning": "下一波: Green", "set": "Cerus",
           "warningDuration": 9.23, "timestamps": [205.49],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Envy", "set": "Cerus",
+        { "warning": "下一波: Envy", "set": "Cerus",
           "warningDuration": 11, "timestamps": [216.49],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments",
+        { "warning": "下一波: Shadow", "set": "Embodiments",
           "warningDuration": 14.31, "timestamps": [219.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Gluttony", "set": "Cerus",
+        { "warning": "下一波: Gluttony", "set": "Cerus",
           "warningDuration": 10.69, "timestamps": [230.49],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments",
+        { "warning": "下一波: Pools", "set": "Embodiments",
           "warningDuration": 15, "timestamps": [234.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         }
@@ -731,11 +731,11 @@
           "icon": "Assets/Strikes/B13/Cerus.png"
         },
         //Enraged Smash
-        { "warning": "Next: Enraged Smash", "set": "Cerus", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Enraged Smash", "set": "Cerus", "fillColor": [245, 7, 7, 0],
           "warningDuration": 4.5, "timestamps": [4.5],
           "icon": "Assets/Strikes/B13/Cerus.png"
         },
-        { "warning": "Next: Enraged Smash", "set": "Cerus", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Enraged Smash", "set": "Cerus", "fillColor": [245, 7, 7, 0],
           "warningDuration": 4.2, "timestamps": [8.7, 12.9, 17.1, 21.3, 25.5, 29.7, 33.9, 38.1, 42.3, 46.5, 50.7, 54.9, 59.1, 63.3, 67.5, 71.7, 75.9, 80.1, 84.3, 88.5, 92.7, 96.9, 101.1, 105.3, 109.5, 113.7, 117.9],
           "icon": "Assets/Strikes/B13/Cerus.png"
         },
@@ -775,43 +775,43 @@
           "icon": "Assets/General/Resistance.png"
         },
         // ========== Next Mechanical Notifications ==========
-        { "warning": "Next: Pools", "set": "Embodiments", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Pools", "set": "Embodiments", "fillColor": [158, 119, 13, 0],
           "warningDuration": 6, "timestamps": [6],
           "icon": "Assets/Strikes/B13/Wail of Despair.png"
         },
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments", "fillColor": [137, 156, 53, 0],
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments", "fillColor": [137, 156, 53, 0],
           "warningDuration": 12.3, "timestamps": [12.3],
           "icon": "Assets/Strikes/B13/Envious Gaze.png"
         },
-        { "warning": "Next: Green", "set": "Embodiments", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Green", "set": "Embodiments", "fillColor": [33, 184, 17, 0],
           "warningDuration": 16.8, "timestamps": [16.8],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Aspect of Rage", "set": "Embodiments", "fillColor": [186, 37, 37, 0],
+        { "warning": "下一波: Aspect of Rage", "set": "Embodiments", "fillColor": [186, 37, 37, 0],
           "warningDuration": 15, "timestamps": [21, 51, 81, 111],
           "icon": "Assets/Strikes/B13/Cry of Rage.png"
         },
-        { "warning": "Next: Gluttony", "set": "Embodiments", "fillColor": [204, 131, 20, 0],
+        { "warning": "下一波: Gluttony", "set": "Embodiments", "fillColor": [204, 131, 20, 0],
           "warningDuration": 13.2, "timestamps": [25.5, 55.5, 85.5, 115.5],
           "icon": "Assets/Strikes/B13/Insatiable Hunger.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments", "fillColor": [67, 91, 156, 0],
+        { "warning": "下一波: Shadow", "set": "Embodiments", "fillColor": [67, 91, 156, 0],
           "warningDuration": 14.7, "timestamps": [31.5],
           "icon": "Assets/Strikes/B13/Malicious Intent.png"
         },
-        { "warning": "Next: Pools", "set": "Embodiments", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Pools", "set": "Embodiments", "fillColor": [158, 119, 13, 0],
           "warningDuration": 15, "timestamps": [36, 66, 96],
           "icon": "Assets/Strikes/B13/Wail of Despair.png"
         },
-        { "warning": "Next: Aspect of Envy", "set": "Embodiments", "fillColor": [137, 156, 53, 0],
+        { "warning": "下一波: Aspect of Envy", "set": "Embodiments", "fillColor": [137, 156, 53, 0],
           "warningDuration": 16.8, "timestamps": [42.3, 72.3, 102.3],
           "icon": "Assets/Strikes/B13/Envious Gaze.png"
         },
-        { "warning": "Next: Green", "set": "Embodiments", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Green", "set": "Embodiments", "fillColor": [33, 184, 17, 0],
           "warningDuration": 14, "timestamps": [45.5, 75.5, 105.5],
           "icon": "Assets/Strikes/B13/B13-Default.png"
         },
-        { "warning": "Next: Shadow", "set": "Embodiments", "fillColor": [67, 91, 156, 0],
+        { "warning": "下一波: Shadow", "set": "Embodiments", "fillColor": [67, 91, 156, 0],
           "warningDuration": 16, "timestamps": [61.5, 91.5],
           "icon": "Assets/Strikes/B13/Malicious Intent.png"
         }

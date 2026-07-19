@@ -22,7 +22,7 @@
       //Alerts
       "alerts": [
         //Spawns
-        { "alert": "Timer: Challenge Mode",
+        { "alert": "計時器: Challenge Mode",
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -127,7 +127,7 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Greens
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 9, "timestamps": [17.5, 57.5, 97.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -136,7 +136,7 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8, "timestamps": [31.5, 71.5, 111.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -145,11 +145,11 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 9, "timestamps": [48.5, 88.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.5, "timestamps": [8.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
@@ -158,16 +158,16 @@
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
         //Void Pool Breath
-        { "warning": "Next: Breath of Jormag", "fillColor": [23, 184, 209, 0],
+        { "warning": "下一波: Breath of Jormag", "fillColor": [23, 184, 209, 0],
           "warningDuration": 11, "timestamps": [50.5, 90.5],
           "icon": "Assets/Strikes/B10/D1-Breath of Jormag.png"
         },
-        { "warning": "Next: Breath of Jormag", "fillColor": [23, 184, 209, 0],
+        { "warning": "下一波: Breath of Jormag", "fillColor": [23, 184, 209, 0],
           "warningDuration": 11, "timestamps": [10.5],
           "icon": "Assets/Strikes/B10/D1-Breath of Jormag.png"
         },
         //Spread Breath
-        { "warning": "Next: Breath of Jormag", "fillColor": [23, 184, 209, 0],
+        { "warning": "下一波: Breath of Jormag", "fillColor": [23, 184, 209, 0],
           "warningDuration": 8, "timestamps": [31.5, 71.5, 111.5],
           "icon": "Assets/Strikes/B10/D1-Breath of Jormag.png"
         },
@@ -177,7 +177,7 @@
           "icon": "Assets/Strikes/B10/D1-Breath of Jormag.png"
         },
         //Lightning of Jormag
-        { "warning": "Next: Lightning of Jormag", "fillColor": [23, 184, 209, 0],
+        { "warning": "下一波: Lightning of Jormag", "fillColor": [23, 184, 209, 0],
           "warningDuration": 4, "timestamps": [22.5, 62.5, 102.5],
           "icon": "Assets/Strikes/B10/D1-Lightning of Jormag.png"
         },
@@ -186,7 +186,7 @@
           "icon": "Assets/Strikes/B10/D1-Lightning of Jormag.png"
         },
         //Frost Meteor
-        { "warning": "Next: Frost Meteor", "fillColor": [23, 184, 209, 0],
+        { "warning": "下一波: Frost Meteor", "fillColor": [23, 184, 209, 0],
           "warningDuration": 9, "timestamps": [48.5, 88.5],
           "icon": "Assets/Strikes/B10/D1-Icy Spikes of Jormag.png"
         },
@@ -354,7 +354,7 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Greens
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 9.5, "timestamps": [29, 83],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -363,11 +363,11 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 13, "timestamps": [19.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 12.5, "timestamps": [73.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -376,11 +376,11 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 16.5, "timestamps": [23],
           "icon": "Assets/Strikes/B10/D2-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 16, "timestamps": [77],
           "icon": "Assets/Strikes/B10/D2-Void Pool.png"
         },
@@ -389,11 +389,11 @@
           "icon": "Assets/Strikes/B10/D2-Void Pool.png"
         },
         //Jaws of Destruction
-        { "warning": "Next: Jaws of Destruction", "fillColor": [222, 74, 11, 0],
+        { "warning": "下一波: Jaws of Destruction", "fillColor": [222, 74, 11, 0],
           "warningDuration": 13, "timestamps": [19.5],
           "icon": "Assets/Strikes/B10/D2-Jaws of Destruction.png"
         },
-        { "warning": "Next: Jaws of Destruction", "fillColor": [222, 74, 11, 0],
+        { "warning": "下一波: Jaws of Destruction", "fillColor": [222, 74, 11, 0],
           "warningDuration": 12.5, "timestamps": [73.5],
           "icon": "Assets/Strikes/B10/D2-Jaws of Destruction.png"
         },
@@ -406,15 +406,15 @@
           "icon": "Assets/Strikes/B10/D2-Jaws of Destruction.png"
         },
         //Lava Slam
-        { "warning": "Next: Lava Slam", "fillColor": [222, 74, 11, 0],
+        { "warning": "下一波: Lava Slam", "fillColor": [222, 74, 11, 0],
           "warningDuration": 10, "timestamps": [45.5, 99.5],
           "icon": "Assets/Strikes/B10/D2-Lava Slam.png"
         },
-        { "warning": "Next: Lava Slam", "fillColor": [222, 74, 11, 0],
+        { "warning": "下一波: Lava Slam", "fillColor": [222, 74, 11, 0],
           "warningDuration": 9.5, "timestamps": [58, 112],
           "icon": "Assets/Strikes/B10/D2-Lava Slam.png"
         },
-        { "warning": "Next: Lava Slam", "fillColor": [222, 74, 11, 0],
+        { "warning": "下一波: Lava Slam", "fillColor": [222, 74, 11, 0],
           "warningDuration": 6, "timestamps": [32.5, 86.5],
           "icon": "Assets/Strikes/B10/D2-Lava Slam.png"
         },
@@ -792,11 +792,11 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 5.5, "timestamps": [27],
           "icon": "Assets/Strikes/B10/D3-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 5, "timestamps": [52, 77, 102],
           "icon": "Assets/Strikes/B10/D3-Void Pool.png"
         },
@@ -805,19 +805,19 @@
           "icon": "Assets/Strikes/B10/D3-Void Pool.png"
         },
         //Branding Beams
-        { "warning": "Next: Branding Beam (Sides)", "fillColor": [111, 4, 224, 0],
+        { "warning": "下一波: Branding Beam (Sides)", "fillColor": [111, 4, 224, 0],
           "warningDuration": 7, "timestamps": [16.5],
           "icon": "Assets/Strikes/B10/D3-Branding Beam.png"
         },
-        { "warning": "Next: Branding Beam (Sides)", "fillColor": [111, 4, 224, 0],
+        { "warning": "下一波: Branding Beam (Sides)", "fillColor": [111, 4, 224, 0],
           "warningDuration": 7.5, "timestamps": [42, 67, 92, 117],
           "icon": "Assets/Strikes/B10/D3-Branding Beam.png"
         },
-        { "warning": "Next: Branding Beam (Center)", "fillColor": [111, 4, 224, 0],
+        { "warning": "下一波: Branding Beam (Center)", "fillColor": [111, 4, 224, 0],
           "warningDuration": 8, "timestamps": [29.5],
           "icon": "Assets/Strikes/B10/D3-Branding Beam.png"
         },
-        { "warning": "Next: Branding Beam (Center)", "fillColor": [111, 4, 224, 0],
+        { "warning": "下一波: Branding Beam (Center)", "fillColor": [111, 4, 224, 0],
           "warningDuration": 7.5, "timestamps": [54.5, 79.5, 104.5],
           "icon": "Assets/Strikes/B10/D3-Branding Beam.png"
         },
@@ -826,7 +826,7 @@
           "icon": "Assets/Strikes/B10/D3-Branding Beam.png"
         },
         //Crystal Barrage
-        { "warning": "Next: Crystal Barrage", "fillColor": [111, 4, 224, 0],
+        { "warning": "下一波: Crystal Barrage", "fillColor": [111, 4, 224, 0],
           "warningDuration": 5, "timestamps": [21.5, 34.5, 47, 59.5, 72, 84.5, 97, 109.5],
           "icon": "Assets/Strikes/B10/D3-Crystal Barrage.png"
         },
@@ -979,7 +979,7 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 5.5, "timestamps": [29.5, 52, 74.5, 97],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -988,11 +988,11 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 4.5, "timestamps": [42, 64.5, 87, 109.5],
           "icon": "Assets/Strikes/B10/D4-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8, "timestamps": [19.5],
           "icon": "Assets/Strikes/B10/D4-Void Pool.png"
         },
@@ -1001,11 +1001,11 @@
           "icon": "Assets/Strikes/B10/D4-Void Pool.png"
         },
         //Poison Roar
-        { "warning": "Next: Poison Roar", "fillColor": [168, 214, 15, 0],
+        { "warning": "下一波: Poison Roar", "fillColor": [168, 214, 15, 0],
           "warningDuration": 9, "timestamps": [46.5, 69, 91.5, 114],
           "icon": "Assets/Strikes/B10/D4-Poison Roar.png"
         },
-        { "warning": "Next: Poison Roar", "fillColor": [168, 214, 15, 0],
+        { "warning": "下一波: Poison Roar", "fillColor": [168, 214, 15, 0],
           "warningDuration": 12.5, "timestamps": [24],
           "icon": "Assets/Strikes/B10/D4-Poison Roar.png"
         },
@@ -1014,7 +1014,7 @@
           "icon": "Assets/Strikes/B10/D4-Poison Roar.png"
         },
         //Shock Waves
-        { "warning": "Next: Shock Waves", "fillColor": [168, 214, 15, 0],
+        { "warning": "下一波: Shock Waves", "fillColor": [168, 214, 15, 0],
           "warningDuration": 5, "timestamps": [29, 51.5, 74, 96.5],
           "icon": "Assets/Strikes/B10/D4-Shock Wave.png"
         },
@@ -1316,11 +1316,11 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Greens
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8, "timestamps": [41, 73.5, 106],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.5, "timestamps": [8.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -1329,7 +1329,7 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 10, "timestamps": [33, 65.5, 98],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -1338,7 +1338,7 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.5, "timestamps": [23, 55.5, 88],
           "icon": "Assets/Strikes/B10/D5-Void Pool.png"
         },
@@ -1356,11 +1356,11 @@
           "icon": "Assets/Strikes/B10/D5-Zhaitan's Reach.png"
         },
         //Putrid Deluge (Spit)
-        { "warning": "Next: Putrid Deluge", "fillColor": [137, 156, 23, 0],
+        { "warning": "下一波: Putrid Deluge", "fillColor": [137, 156, 23, 0],
           "warningDuration": 6, "timestamps": [44, 76.5, 109],
           "icon": "Assets/Strikes/B10/D5-Putrid Deluge.png"
         },
-        { "warning": "Next: Putrid Deluge", "fillColor": [137, 156, 23, 0],
+        { "warning": "下一波: Putrid Deluge", "fillColor": [137, 156, 23, 0],
           "warningDuration": 11.5, "timestamps": [11.5],
           "icon": "Assets/Strikes/B10/D5-Putrid Deluge.png"
         },
@@ -1373,7 +1373,7 @@
           "icon": "Assets/Strikes/B10/D5-Putrid Deluge.png"
         },
         //Claw Slam
-        { "warning": "Next: Claw Slam", "fillColor": [137, 156, 23, 0],
+        { "warning": "下一波: Claw Slam", "fillColor": [137, 156, 23, 0],
           "warningDuration": 10, "timestamps": [24.5, 57, 89.5],
           "icon": "Assets/Strikes/B10/D5-Claw Slam.png"
         },
@@ -1382,7 +1382,7 @@
           "icon": "Assets/Strikes/B10/D5-Claw Slam.png"
         },
         //Scream
-        { "warning": "Next: Scream of Zhaitan", "fillColor": [137, 156, 23, 0],
+        { "warning": "下一波: Scream of Zhaitan", "fillColor": [137, 156, 23, 0],
           "warningDuration": 6.5, "timestamps": [29.5, 62, 94.5],
           "icon": "Assets/Strikes/B10/D5-Scream of Zhaitan.png"
         },
@@ -1847,16 +1847,16 @@
           "warningDuration": 5.5, "timestamps": [5.5],
           "icon": "Assets/Strikes/B10/Saltspray Attack.png"
         },
-        { "warning": "Next: Saltspray Breath", "fillColor": [163, 43, 255, 0],
+        { "warning": "下一波: Saltspray Breath", "fillColor": [163, 43, 255, 0],
           "warningDuration": 4, "timestamps": [9.5, 13.5],
           "icon": "Assets/Strikes/B10/Saltspray Attack.png"
         },
-        { "warning": "Next: Saltspray Breakbar", "fillColor": [30, 153, 156, 0],
+        { "warning": "下一波: Saltspray Breakbar", "fillColor": [30, 153, 156, 0],
           "warningDuration": 4, "timestamps": [17.5],
           "icon": "Assets/Strikes/B10/Saltspray Attack.png"
         },
         //Swarm of Mordremoth (Projectiles)
-        { "warning": "Next: Heart Projectiles", "fillColor": [199, 26, 14, 0],
+        { "warning": "下一波: Heart Projectiles", "fillColor": [199, 26, 14, 0],
           "warningDuration": 3, "timestamps": [11.5, 14.5, 17.5, 20.5, 23.5, 26.5, 29.5, 32.5, 35.5, 38.5, 41.5, 44.5, 47.5, 50.5, 53.5, 56.5, 59.5, 62.5, 65.5, 68.5, 71.5, 74.5, 77.5, 80.5, 83.5],
           "icon": "Assets/Strikes/B10/Projectile of Mordremoth.png"
         },
@@ -1961,7 +1961,7 @@
           "warningDuration": 8.5, "timestamps": [91.5],
           "icon": "Assets/Strikes/B10/Boons.png"
         },
-        { "warning": "Next: Boons", "fillColor": [227, 195, 14, 0],
+        { "warning": "下一波: Boons", "fillColor": [227, 195, 14, 0],
           "warningDuration": 8, "timestamps": [51.5],
           "icon": "Assets/Strikes/B10/Boons.png"
         },
@@ -1970,11 +1970,11 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Greens
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 15, "timestamps": [14.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 6.5, "timestamps": [60.5, 106.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -1983,7 +1983,7 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 10, "timestamps": [24.5, 70.5, 116.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -1992,19 +1992,19 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 14.5, "timestamps": [14.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 6.5, "timestamps": [60.5, 106.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 6, "timestamps": [83],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 5.5, "timestamps": [37],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
@@ -2013,23 +2013,23 @@
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
         //"Magic Hail"
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12.5, "timestamps": [89.5],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12, "timestamps": [43.5],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 10, "timestamps": [64],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 7, "timestamps": [29, 75],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 6.5, "timestamps": [18],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
@@ -2038,11 +2038,11 @@
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
         //Tsunami Wave
-        { "warning": "Next: Tsunami Wave", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tsunami Wave", "fillColor": [29, 64, 204, 0],
           "warningDuration": 10, "timestamps": [64],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
-        { "warning": "Next: Tsunami Wave", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tsunami Wave", "fillColor": [29, 64, 204, 0],
           "warningDuration": 6.5, "timestamps": [18],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
@@ -2051,7 +2051,7 @@
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
         //Claw Slap
-        { "warning": "Next: Claw Slap", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Claw Slap", "fillColor": [29, 64, 204, 0],
           "warningDuration": 4, "timestamps": [26, 72],
           "icon": "Assets/Strikes/B10/D6-Claw Slap.png"
         },
@@ -2060,11 +2060,11 @@
           "icon": "Assets/Strikes/B10/D6-Claw Slap.png"
         },
         //Tail Slam
-        { "warning": "Next: Tail Slam", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tail Slam", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12.5, "timestamps": [89.5],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
-        { "warning": "Next: Tail Slam", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tail Slam", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12, "timestamps": [43.5],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
@@ -2073,7 +2073,7 @@
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
         //"Void Beam"
-        { "warning": "Next: Void Beam", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Void Beam", "fillColor": [29, 64, 204, 0],
           "warningDuration": 7.5, "timestamps": [54, 100],
           "icon": "Assets/Strikes/B10/D6-Void Beam.png"
         },
@@ -2864,11 +2864,11 @@
           "icon": "Assets/Strikes/B10/Boons.png"
         },
         //Greens
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 9.5, "timestamps": [9.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
-        { "warning": "Next: Share the Void", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Share the Void", "fillColor": [33, 184, 17, 0],
           "warningDuration": 6.5, "timestamps": [55.5, 101.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -2877,7 +2877,7 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Spreads
-        { "warning": "Next: Spread", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: Spread", "fillColor": [158, 119, 13, 0],
           "warningDuration": 10, "timestamps": [19.5, 65.5, 111.5],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
@@ -2886,15 +2886,15 @@
           "icon": "Assets/Strikes/B10/B10-Default.png"
         },
         //Void Pools
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 9.5, "timestamps": [9.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 6.5, "timestamps": [55.5, 101.5],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
-        { "warning": "Next: Void Pools", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Void Pools", "fillColor": [245, 7, 7, 0],
           "warningDuration": 6, "timestamps": [32, 78],
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
@@ -2903,19 +2903,19 @@
           "icon": "Assets/Strikes/B10/D1-Void Pool.png"
         },
         //"Magic Hail"
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12.5, "timestamps": [38.5, 84.5],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 10, "timestamps": [59, 105],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 7, "timestamps": [24, 70, 116],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
-        { "warning": "Next: Magic Hail", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Magic Hail", "fillColor": [29, 64, 204, 0],
           "warningDuration": 13, "timestamps": [13],
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
@@ -2924,11 +2924,11 @@
           "icon": "Assets/Strikes/B10/Dragon Orb Spawns.png"
         },
         //Tsunami Wave
-        { "warning": "Next: Tsunami Wave", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tsunami Wave", "fillColor": [29, 64, 204, 0],
           "warningDuration": 10, "timestamps": [59, 105],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
-        { "warning": "Next: Tsunami Wave", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tsunami Wave", "fillColor": [29, 64, 204, 0],
           "warningDuration": 13, "timestamps": [13],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
@@ -2937,7 +2937,7 @@
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
         //Claw Slap
-        { "warning": "Next: Claw Slap", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Claw Slap", "fillColor": [29, 64, 204, 0],
           "warningDuration": 4, "timestamps": [21, 67, 113],
           "icon": "Assets/Strikes/B10/D6-Claw Slap.png"
         },
@@ -2946,7 +2946,7 @@
           "icon": "Assets/Strikes/B10/D6-Claw Slap.png"
         },
         //Tail Slam
-        { "warning": "Next: Tail Slam", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Tail Slam", "fillColor": [29, 64, 204, 0],
           "warningDuration": 12.5, "timestamps": [38.5, 84.5],
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
@@ -2955,7 +2955,7 @@
           "icon": "Assets/Strikes/B10/D6-Wave.png"
         },
         //Void Beam
-        { "warning": "Next: Void Beam", "fillColor": [29, 64, 204, 0],
+        { "warning": "下一波: Void Beam", "fillColor": [29, 64, 204, 0],
           "warningDuration": 7.5, "timestamps": [49, 95],
           "icon": "Assets/Strikes/B10/D6-Void Beam.png"
         },

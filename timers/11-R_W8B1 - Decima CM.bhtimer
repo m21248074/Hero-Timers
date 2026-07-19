@@ -22,7 +22,7 @@
       //Alerts (0s offset, 43.7s / 44s rotation)
       "alerts": [
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 5, "timestamps": [5],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -31,12 +31,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.75, "alertDuration": 5, "timestamps": [13.75],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.3, "timestamps": [14.3],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -49,7 +49,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [27.8],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -58,17 +58,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.6, "alertDuration": 5, "timestamps": [36.4],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.45, "alertDuration": 5.15, "timestamps": [36.25],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.6, "timestamps": [36.4],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -82,7 +82,7 @@
         },
         // ===== Looping Rotation =====
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 12.3, "timestamps": [48.7, 92.7],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -91,12 +91,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [57.4, 101.4],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.7, "timestamps": [58.4, 102.4],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -109,7 +109,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [71.9, 115.9],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -118,17 +118,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.5, "alertDuration": 5, "timestamps": [80.4, 124.4],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.35, "alertDuration": 5.15, "timestamps": [80.25, 124.25],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.5, "timestamps": [80.4, 124.4],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -159,7 +159,7 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Sparking Reverberation
-        { "warning": "Next: Sparking Reverberation", "fillColor": [30, 153, 156, 0],
+        { "warning": "下一波: Sparking Reverberation", "fillColor": [30, 153, 156, 0],
           "warningDuration": 6, "timestamps": [6],
           "icon": "Assets/General/Defiance.png"
         },
@@ -168,7 +168,7 @@
           "icon": "Assets/General/Defiance.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 4.5, "timestamps": [4.5],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -177,12 +177,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.75, "alertDuration": 5, "timestamps": [13.25],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.3, "timestamps": [13.8],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -195,7 +195,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [27.3],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -204,17 +204,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.6, "alertDuration": 5, "timestamps": [35.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.45, "alertDuration": 5.15, "timestamps": [35.75],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Normal, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 8.6, "timestamps": [35.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -228,7 +228,7 @@
         },
         // ===== Looping Rotation =====
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 12.3, "timestamps": [48.2, 92.2],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -237,12 +237,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [56.9, 100.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.7, "timestamps": [57.9, 101.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -255,7 +255,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [71.4, 115.4],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -264,17 +264,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.5, "alertDuration": 5, "timestamps": [79.9, 123.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.35, "alertDuration": 5.15, "timestamps": [79.75, 123.75],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 8.5, "timestamps": [79.9, 123.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -305,16 +305,16 @@
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
         //Flux Nova & Fulminate (Conduit & Decima Explosions)
-        { "warning": "Prepare: Fulminate", "alert": "Fulminate", "fillColor": [30, 153, 156, 0],
+        { "warning": "準備: Fulminate", "alert": "Fulminate", "fillColor": [30, 153, 156, 0],
           "warningDuration": 4.5, "alertDuration": 2, "timestamps": [4.5],
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
-        { "warning": "Prepare: Flux Nova", "fillColor": [30, 153, 156, 0],
+        { "warning": "準備: Flux Nova", "fillColor": [30, 153, 156, 0],
           "warningDuration": 6.5, "timestamps": [6.5],
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 11, "timestamps": [17.5],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -323,12 +323,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.9, "alertDuration": 5, "timestamps": [26.4],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Salvo (Orange, 5/5 people, 5.5s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.3, "timestamps": [26.8],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -337,7 +337,7 @@
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 8.5, "timestamps": [35.3],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -346,17 +346,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.4, "alertDuration": 5, "timestamps": [43.7],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.1, "alertDuration": 5.3, "timestamps": [43.4],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Salvo (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.4, "timestamps": [43.7],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -366,11 +366,11 @@
         },
         // ===== Looping Rotation =====
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 7.1, "timestamps": [50.8],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 7.2, "timestamps": [83.8, 116.8, 149.8],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -379,12 +379,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.8, "alertDuration": 5, "timestamps": [59.6, 92.6, 125.6, 158.6],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Salvo (Orange, 5/5 people, 5.5s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.4, "timestamps": [60.2, 93.2, 126.2, 159.2],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -393,7 +393,7 @@
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 8.1, "timestamps": [68.3, 101.3, 134.3, 167.3],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -402,17 +402,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.3, "alertDuration": 5, "timestamps": [76.6, 109.6, 142.6, 175.6],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.1, "alertDuration": 5.2, "timestamps": [76.4, 109.4, 142.4, 175.4],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Salvo (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
           "warningDuration": 8.3, "timestamps": [76.6, 109.6, 142.6, 175.6],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -439,7 +439,7 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Sparking Reverberation
-        { "warning": "Next: Sparking Reverberation", "fillColor": [30, 153, 156, 0],
+        { "warning": "下一波: Sparking Reverberation", "fillColor": [30, 153, 156, 0],
           "warningDuration": 6, "timestamps": [6],
           "icon": "Assets/General/Defiance.png"
         },
@@ -448,7 +448,7 @@
           "icon": "Assets/General/Defiance.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 4.5, "timestamps": [4.5],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -457,12 +457,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.75, "alertDuration": 5, "timestamps": [13.25],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.3, "timestamps": [13.8],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -475,7 +475,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [27.3],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -484,17 +484,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.6, "alertDuration": 5, "timestamps": [35.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.45, "alertDuration": 5.15, "timestamps": [35.75],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Normal, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 8.6, "timestamps": [35.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -508,7 +508,7 @@
         },
         // ===== Looping Rotation =====
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 12.3, "timestamps": [48.2, 92.2],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -517,12 +517,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [56.9, 100.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Fusillade (Normal, 5 people, 5.5s / 4.8s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 9.7, "timestamps": [57.9, 101.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -535,7 +535,7 @@
           "icon": "Assets/Strikes/B9/5.png"
         },
         //Seismic Crash & Earthrend
-        { "warning": "Next: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Crash & Earthrend", "fillColor": [158, 78, 73, 0],
           "warningDuration": 13.5, "timestamps": [71.4, 115.4],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -544,17 +544,17 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.5, "alertDuration": 5, "timestamps": [79.9, 123.9],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 8.35, "alertDuration": 5.15, "timestamps": [79.75, 123.75],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Fluxdance Fusillade (Red, 5(1) people, 5.5s)
-        { "warning": "Next: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
+        { "warning": "下一波: Fluxlance Fusillade", "fillColor": [209, 109, 2, 0],
           "warningDuration": 8.5, "timestamps": [79.9, 123.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -585,16 +585,16 @@
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
         //Flux Nova & Fulminate (Conduit & Decima Explosions)
-        { "warning": "Prepare: Fulminate", "alert": "Fulminate", "fillColor": [30, 153, 156, 0],
+        { "warning": "準備: Fulminate", "alert": "Fulminate", "fillColor": [30, 153, 156, 0],
           "warningDuration": 4.5, "alertDuration": 2, "timestamps": [4.5],
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
-        { "warning": "Prepare: Flux Nova", "fillColor": [30, 153, 156, 0],
+        { "warning": "準備: Flux Nova", "fillColor": [30, 153, 156, 0],
           "warningDuration": 6.5, "timestamps": [6.5],
           "icon": "Assets/Raids/W8B1/Mount Balrior.png"
         },
         //Seismic Reposition
-        { "warning": "Next: Seismic Reposition", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Reposition", "fillColor": [158, 78, 73, 0],
           "warningDuration": 10.6, "timestamps": [17.1],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -603,7 +603,7 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 5.2, "timestamps": [22.3],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -612,12 +612,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [31],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Salvo (Green, 5/5 people, 6.3s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [33, 184, 17, 0],
           "warningDuration": 9.6, "timestamps": [31.9],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -627,11 +627,11 @@
         },
         // ===== Looping Rotation =====
         //Seismic Reposition
-        { "warning": "Next: Seismic Reposition", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Reposition", "fillColor": [158, 78, 73, 0],
           "warningDuration": 8.2, "timestamps": [40.1],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
-        { "warning": "Next: Seismic Reposition", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Seismic Reposition", "fillColor": [158, 78, 73, 0],
           "warningDuration": 8.7, "timestamps": [80.9, 121.7, 162.5, 203.3],
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
@@ -640,16 +640,16 @@
           "icon": "Assets/Raids/W8B1/Seismic Crash.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 11.7, "alertDuration": 5, "timestamps": [83.9, 124.7, 165.5, 206.3],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 11.2, "alertDuration": 5, "timestamps": [43.1],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 5.6, "timestamps": [45.7, 86.5, 127.3, 168.1, 208.9],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -658,12 +658,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [54.4, 95.2, 136, 176.8, 217.6],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Salvo (Red, 5/5 people, 6.3s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
           "warningDuration": 9.5, "timestamps": [55.2, 96, 136.8, 177.6, 218.4],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -672,7 +672,7 @@
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
         //Foreshock & Mainshock
-        { "warning": "Next: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
+        { "warning": "下一波: Foreshock & Mainshock", "fillColor": [158, 78, 73, 0],
           "warningDuration": 7.6, "timestamps": [62.8, 103.6, 144.4, 185.2, 226],
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
@@ -681,12 +681,12 @@
           "icon": "Assets/Raids/W8B1/Mainshock.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 8.7, "alertDuration": 5, "timestamps": [71.5, 112.3, 153.1, 193.9, 234.7],
           "icon": "Assets/Raids/W8B1/Peal of Harmony.png"
         },
         //Fluxlance Salvo (Green, 5/5 people, 6.3s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [33, 184, 17, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [33, 184, 17, 0],
           "warningDuration": 9.4, "timestamps": [72.2, 113, 153.8, 194.6, 235.4],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -717,17 +717,17 @@
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 7.5, "alertDuration": 5, "timestamps": [7.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 6, "alertDuration": 5, "timestamps": [13.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Fluxlance Salvo (Red, 5/5 people, 6.3s)
-        { "warning": "Next: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
+        { "warning": "下一波: Fluxlance Salvo", "fillColor": [245, 7, 7, 0],
           "warningDuration": 11.7, "timestamps": [16.2],
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
@@ -736,32 +736,32 @@
           "icon": "Assets/Raids/W8B1/Fluxlance.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 9.3, "alertDuration": 5, "timestamps": [25.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Peals of Harmony & Discord | Chorus of Thunder
-        { "warning": "Prepare: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Harmony & Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 9, "alertDuration": 5, "timestamps": [31.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Peals of Discord | Chorus of Thunder
-        { "warning": "Prepare: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 15, "alertDuration": 5, "timestamps": [37.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Dancing Sparks (Green Circles)
-        { "warning": "Prepare: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Dancing Sparks", "alert": "Dancing Sparks", "fillColor": [33, 184, 17, 0],
           "warningDuration": 17.1, "alertDuration": 8.9, "timestamps": [39.6],
           "icon": "Assets/Raids/W8B1/Dancing Spark.png"
         },
         //Peals of Discord | Chorus of Thunder
-        { "warning": "Prepare: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 17, "alertDuration": 5, "timestamps": [41.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         },
         //Peals of Discord | Chorus of Thunder
-        { "warning": "Prepare: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
+        { "warning": "準備: Discord", "alert": "Chorus of Thunder", "fillColor": [158, 119, 13, 0],
           "warningDuration": 17, "alertDuration": 5, "timestamps": [43.5],
           "icon": "Assets/Raids/W8B1/Peal of Discord.png"
         }

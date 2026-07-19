@@ -19,7 +19,7 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "alert": "Timer: Phase 1", "fillColor": [154, 99, 167, 1],
+        { "alert": "計時器: Phase 1", "fillColor": [154, 99, 167, 1],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W3B3-Xera.png"
         },

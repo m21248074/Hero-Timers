@@ -20,7 +20,7 @@
         "requireEntry": true
       },
       "alerts": [
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 40, "alertDuration": 600, "timestamps": [40],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -40,7 +40,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -60,7 +60,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -80,7 +80,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -100,7 +100,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -120,7 +120,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -140,7 +140,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }
@@ -160,7 +160,7 @@
           "warningDuration": 10, "timestamps": [10],
           "icon": "Assets/Raids/Ereg.png"
         },
-        { "warning": "Prepare: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
+        { "warning": "準備: Eruption of Rot", "alert": "Soon", "fillColor": [33, 184, 17, 0],
           "warningDuration": 70, "alertDuration": 600, "timestamps": [80],
           "icon": "Assets/Raids/Ereg.png"
         }

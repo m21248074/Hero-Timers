@@ -20,7 +20,7 @@
       },
       //Alerts
       "alerts": [
-        { "alert": "Timer: Rising Pressure",
+        { "alert": "計時器: Rising Pressure",
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/Ura.png"
         },

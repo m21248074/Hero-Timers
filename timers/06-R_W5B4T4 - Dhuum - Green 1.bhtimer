@@ -18,86 +18,86 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "Timer: Green #1", "fillColor": [12, 95, 21, 1],
+        { "alert": "計時器: Green #1", "fillColor": [12, 95, 21, 1],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/Dhuum.png"
         },
         //Prepare Green #1
-        { "warning": "Prepare: Green (1/7)", "fillColor": [79, 219, 55, 1],
+        { "warning": "準備: Green (1/7)", "fillColor": [79, 219, 55, 1],
           "warningDuration": 26, "timestamps": [30],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_1"
         },
-        { "warning": "Prepare: Green (2/7)", "fillColor": [79, 219, 55, 1],
+        { "warning": "準備: Green (2/7)", "fillColor": [79, 219, 55, 1],
           "warningDuration": 25, "timestamps": [120],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_2"
         },
-        { "warning": "Prepare: Green (3/7)", "fillColor": [44, 232, 12, 1],
+        { "warning": "準備: Green (3/7)", "fillColor": [44, 232, 12, 1],
           "warningDuration": 25, "timestamps": [210],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_3"
         },
-        { "warning": "Prepare: Green (4/7)", "fillColor": [44, 232, 12, 1],
+        { "warning": "準備: Green (4/7)", "fillColor": [44, 232, 12, 1],
           "warningDuration": 25, "timestamps": [300],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_4"
         },
-        { "warning": "Prepare: Green (5/7)", "fillColor": [44, 232, 12, 1],
+        { "warning": "準備: Green (5/7)", "fillColor": [44, 232, 12, 1],
           "warningDuration": 25, "timestamps": [390],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_5"
         },
-        { "warning": "Prepare: Green (6/7)", "fillColor": [44, 232, 12, 1],
+        { "warning": "準備: Green (6/7)", "fillColor": [44, 232, 12, 1],
           "warningDuration": 25, "timestamps": [480],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_6"
         },
-        { "warning": "Prepare: Green (7/7)", "fillColor": [44, 232, 12, 1],
+        { "warning": "準備: Green (7/7)", "fillColor": [44, 232, 12, 1],
           "warningDuration": 25, "timestamps": [570],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g1_7"
         },
         //Green 2
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [65],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_1"
         },
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [155],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_2"
         },
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [245],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_3"
         },
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [335],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_4"
         },
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [425],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_5"
         },
-        { "warning": "Next: Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [515],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g2_6"
         },
         //Green 3
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [95],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_1"
         },
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [185],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_2"
         },
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [275],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_3"
         },
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [365],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_4"
         },
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [455],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_5"
         },
-        { "warning": "Next: Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "下一波: Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 30, "timestamps": [545],
           "icon": "Assets/Raids/Greens.png", "uid": "htp.w5.b4.g3_6"
         },

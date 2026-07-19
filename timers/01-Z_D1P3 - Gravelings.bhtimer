@@ -21,15 +21,15 @@
         "requireEntry": true
       },
       "alerts": [
-        { "alert": "Timer: Graveling Spawns", "fillColor": [74, 218, 240, 0],
+        { "alert": "計時器: Graveling Spawns", "fillColor": [74, 218, 240, 0],
           "alertDuration": 3.5, "timestamps": [0],
           "icon": "Assets/Dungeons/D1-Default.png"
         },
-        { "warning": "Next: Tunnel", "fillColor": [74, 218, 240, 0],
+        { "warning": "下一波: Tunnel", "fillColor": [74, 218, 240, 0],
           "warningDuration": 10, "timestamps": [11.5, 23.5, 41.5, 53.5, 71.5, 87.5, 105.5, 123.5, 142.5, 160.5, 178.5, 196.5, 214.5, 232.5],
           "icon": "Assets/Dungeons/D1-Default.png"
         },
-        { "warning": "Next: Tunnel (last)", "fillColor": [74, 218, 240, 0],
+        { "warning": "下一波: Tunnel (last)", "fillColor": [74, 218, 240, 0],
           "warningDuration": 10, "timestamps": [250.5],
           "icon": "Assets/Dungeons/D1-Default.png"
         }
