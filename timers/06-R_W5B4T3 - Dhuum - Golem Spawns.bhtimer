@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.golems",
-  "name": "W5 - Hall of Chains\nDhuum\nMessenger Spawns",
+  "name": "W5 - 鎖鏈殿堂(Hall of Chains)\n德姆(Dhuum)\n信使生成",
   "category": "烈焰征途 (PoF)",
-  "description": "• 類型: 自動\n• Note #1: Messenger spawn timings are\nvariable, and as such are averaged.\n• Note #2: Medium Orb collections\naffect Messenger spawn positions.\nUse the number in \"[#/#]\" to keep track.\n---顯示---\n• When each Messenger spawns.\n• Markers for Messenger spawn positions.",
+  "description": "• 類型: 自動\n• 注意 #1: 信使生成的時間點會變動，\n因此採用平均值計算。\n• 注意 #2: 中型球體的收集\n會影響信使生成的位置。\n請使用 \"[#/#]\" 中的數字來進行追蹤。\n---顯示---\n• 每個信使 (Messenger) 生成的時間。\n• 信使生成位置的標記。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumMS.png",
   "map": 1264,
@@ -17,132 +17,132 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "計時器: Golem Spawns", "fillColor": [12, 95, 21, 1],
+        { "alert": "計時器: 信使生成", "fillColor": [12, 95, 21, 1],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/Dhuum.png"
         },
         //3rd (Pre-Boss Spawns)
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 17.1, "timestamps": [21.1],
           "icon": "Assets/Raids/Golem.png"
         },
         //4th and 6th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 10.1, "timestamps": [31.2, 46.3],
           "icon": "Assets/Raids/Golem.png"
         },
         //5th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5, "timestamps": [36.2],
           "icon": "Assets/Raids/Golem.png"
         },
         //7th
-        { "warning": "[0/1] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 14.9, "timestamps": [61.2],
           "icon": "Assets/Raids/Golem.png"
         },
         //8th
-        { "warning": "[0/1]: Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1]: 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 10, "timestamps": [71.2],
           "icon": "Assets/Raids/Golem.png"
         },
         //9th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5.1, "timestamps": [76.3],
           "icon": "Assets/Raids/Golem.png"
         },
         //9th (1) and 10th (2)
-        { "warning": "[1/2] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 9.8, "timestamps": [81],
           "icon": "Assets/Raids/Golem.png"
         },
         //10th
-        { "warning": "[0/1] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5.6, "timestamps": [86.6],
           "icon": "Assets/Raids/Golem.png"
         },
         //11th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 14.2, "timestamps": [100.8],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[1/2] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 9.9, "timestamps": [96.5],
           "icon": "Assets/Raids/Golem.png"
         },
         //12th
-        { "warning": "[0/1] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 10.4, "timestamps": [111.2],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[2] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[2] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5.5, "timestamps": [106.3],
           "icon": "Assets/Raids/Golem.png"
         },
         //13th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5.1, "timestamps": [116.3],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[1/2] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 10.4, "timestamps": [121.6],
           "icon": "Assets/Raids/Golem.png"
         },
         //14th
-        { "warning": "[0/1] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5, "timestamps": [126.6],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[2/3] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[2/3] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 9.6, "timestamps": [131.2],
           "icon": "Assets/Raids/Golem.png"
         },
         //15th
-        { "warning": "[1/2] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 5.7, "timestamps": [136.9],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 9.9, "timestamps": [141.1],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[3] Messenger Spawn", "alert": "Next Spawn at GDM", "fillColor": [12, 95, 21, 1],
+        { "warning": "[3] 信使生成", "alert": "Next Spawn at GDM", "fillColor": [12, 95, 21, 1],
           "warningDuration": 11.3, "alertDuration": 5, "timestamps": [142.5],
           "icon": "Assets/Raids/Golem.png"
         },
         //16th (Begin Main Fight Spawns)
-        { "warning": "[0/1] Messenger Spawn", "alert": "Next Spawn at Green #3", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "alert": "Next Spawn at Green #3", "fillColor": [12, 95, 21, 1],
           "warningDuration": 37, "alertDuration": 5, "timestamps": [215],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[2/3] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[2/3] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 32.6, "timestamps": [210.6],
           "icon": "Assets/Raids/Golem.png"
         },
         //17th
-        { "warning": "[0/3] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/3] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 13.7, "timestamps": [271.7],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[1/2] Messenger Spawn", "alert": "Next Spawn at Green #2", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2] 信使生成", "alert": "Next Spawn at Green #2", "fillColor": [12, 95, 21, 1],
           "warningDuration": 17.6, "alertDuration": 5, "timestamps": [275.6],
           "icon": "Assets/Raids/Golem.png"
         },
         //18th
-        { "warning": "[0/1] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0/1] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 21.7, "timestamps": [331.7],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[2/3] Messenger Spawn", "alert": "Next Spawn after GDM", "fillColor": [12, 95, 21, 1],
+        { "warning": "[2/3] 信使生成", "alert": "Next Spawn after GDM", "fillColor": [12, 95, 21, 1],
           "warningDuration": 27.3, "alertDuration": 5, "timestamps": [337.3],
           "icon": "Assets/Raids/Golem.png"
         },
         //19th
-        { "warning": "[0] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[0] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 23.5, "timestamps": [398.5],
           "icon": "Assets/Raids/Golem.png"
         },
-        { "warning": "[1/2/3] Messenger Spawn", "fillColor": [12, 95, 21, 1],
+        { "warning": "[1/2/3] 信使生成", "fillColor": [12, 95, 21, 1],
           "warningDuration": 19.6, "timestamps": [394.6],
           "icon": "Assets/Raids/Golem.png"
         },

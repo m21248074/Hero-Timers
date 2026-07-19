@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w5.b4.shackles",
-  "name": "W5 - Hall of Chains\nDhuum\nShackles",
+  "name": "W5 - 鎖鏈殿堂(Hall of Chains)\n德姆(Dhuum)\n靈魂桎梏",
   "category": "烈焰征途 (PoF)",
-  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate when Dhuum reaches 60%.\n---顯示---\n• When shackles are applied.",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 當德姆 (Dhuum) 生命值達到 60% 時啟動。\n---顯示---\n• 靈魂桎梏被施加的時間。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/DhuumSH.png",
   "map": 1264,
@@ -21,11 +21,11 @@
         "requireEntry": true
       },
       "alerts": [
-        { "alert": "Move", "fillColor": [12, 95, 21, 1],
+        { "alert": "移動", "fillColor": [12, 95, 21, 1],
           "alertDuration": 4.5, "timestamps": [0],
           "icon": "Assets/Raids/Shackles.png"
         },
-        { "warning": "下一波: Shackles", "alert": "Move", "fillColor": [6, 112, 68, 1],
+        { "warning": "下一波: 靈魂桎梏", "alert": "移動", "fillColor": [6, 112, 68, 1],
           "warningDuration": 25, "alertDuration": 5, "timestamps": [29.5, 59.5, 89.5, 119.5, 149.5, 179.5, 209.5, 239.5, 269.5, 199.5, 329.5, 359.5, 389.5, 419.5, 449.5, 479.5],
           "icon": "Assets/Raids/Shackles.png"
         }
