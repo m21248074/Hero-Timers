@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b1.numberedgreens",
-  "name": "W4 - Bastion of the Penitent\nCairn the Indomitable\nNumbered Greens",
+  "name": "W4 - 懺悔者堡壘\n(Bastion of the Penitent)\n凱玲(Cairn) 編號綠圈",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• Activate anytime when Cairn reaches\nsoft-phasing thresholds (75% / 50% / 25%).\n---Notice---\n• Do not pre-stack on Numbered Greens;\nthe game does not register you inside the\ngreen if you do this. Walking in/out of it\nor having another player join you are\nwork-arounds if you do plan to pre-stack.\n---顯示---\n• Where the Numbered Greens will\nspawn for each soft-phase.",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 當凱玲 (Cairn) 達到軟階段門檻\n(75% / 50% / 25%)，隨時啟動。\n---注意---\n• 請勿提前堆疊在編號綠圈;\n如果你這樣做，\n遊戲不會判定你在編號綠圈內。\n如果你確實打算提前堆疊，\n走入/走出綠圈\n或者讓另一名玩家加入你。\n---顯示---\n• 每個軟階段中，\n編號綠圈將會出現的位置。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B1/Cairn.png",
   "map": 1188,

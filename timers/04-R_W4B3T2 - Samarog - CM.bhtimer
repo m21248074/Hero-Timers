@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b3.challenge",
-  "name": "W4 - Bastion of the Penitent\nSamarog CM\nGlobal Mechanics",
+  "name": "W4 - 懺悔者堡壘\n(Bastion of the Penitent)\n薩瑪洛格 挑戰 (Samarog CM) 一般機制",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When Spears impact.\n• When Spear Return happens.\n• When Inevitable Betrayal happens.\n• How long until Inevitable Betrayal completes.\n• Markers for future spear impacts.",
+  "description": "• 類型: 自動\n---顯示---\n• 長矛衝擊(Spears impact)的時間。\n• 長矛回歸(Spear Return)發生時間。\n• 必然背叛(Inevitable Betrayal)發生時間。\n• 距離必然背叛完成還有多久時間。\n• 未來長矛衝擊落點的標記。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B3/Samarog-CM.png",
   "map": 1188,
@@ -17,78 +17,78 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "計時器: Challenge Mode", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: 挑戰模式", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B3/Samarog.png"
         },
         //Spear Impacts
-        { "warning": "Spear Impact (1/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (1/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 6, "timestamps": [6],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (1/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (1/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [71, 136, 201, 266, 331, 396, 461, 526, 591],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (2/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (2/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [11, 76, 141, 206, 271, 336, 401, 466, 531, 596],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (3/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (3/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [16, 81, 146, 211, 276, 341, 406, 471, 536, 601],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (4/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (4/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [21, 86, 151, 216, 281, 346, 411, 476, 541, 606],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (5/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (5/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [26, 91, 156, 221, 286, 351, 416, 481, 546, 611],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (6/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (6/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [31, 96, 161, 226, 291, 356, 421, 486, 551, 616],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (7/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (7/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [36, 101, 166, 231, 296, 361, 426, 491, 556, 621],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (8/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (8/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [41, 106, 171, 236, 301, 366, 431, 496, 561, 626],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (9/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (9/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [46, 111, 176, 241, 306, 371, 436, 501, 566, 631],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (10/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (10/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [51, 116, 181, 246, 311, 376, 441, 506, 571, 636],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (11/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (11/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [56, 121, 186, 251, 316, 381, 446, 511, 576, 641],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
-        { "warning": "Spear Impact (12/12)", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛衝擊 (12/12)", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [61, 126, 191, 256, 321, 386, 451, 516, 581, 646],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
         //Spear Return
-        { "warning": "Spear Return", "fillColor": [202, 175, 92, 0],
+        { "warning": "長矛回歸", "fillColor": [202, 175, 92, 0],
           "warningDuration": 5, "timestamps": [66, 131, 196, 261, 326, 391, 456, 521, 586, 651],
           "icon": "Assets/Raids/W4B3/Spear.png"
         },
         //Inevitable Betrayal
-        { "warning": "下一波: Inevitable Betrayal", "fillColor": [158, 109, 25, 0],
+        { "warning": "下一波: 必然背叛", "fillColor": [158, 109, 25, 0],
           "warningDuration": 18, "timestamps": [25, 49, 73, 97, 121, 145, 169, 193, 217, 241, 265, 289, 313, 337, 361, 385, 409, 433, 457, 481, 505, 529, 553, 577, 601, 625, 649],
           "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
         },
-        { "warning": "Move", "fillColor": [158, 109, 25, 0],
+        { "warning": "移動", "fillColor": [158, 109, 25, 0],
           "warningDuration": 7, "timestamps": [7],
           "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
         },
-        { "warning": "Move", "fillColor": [158, 109, 25, 0],
+        { "warning": "移動", "fillColor": [158, 109, 25, 0],
           "warningDuration": 6, "timestamps": [31, 55, 79, 103, 127, 151, 175, 199, 223, 247, 271, 295, 319, 343, 367, 391, 415, 439, 463, 487, 511, 535, 559, 583, 607, 631, 655],
           "icon": "Assets/Raids/W4B3/Inevitable_Betrayal.png"
         }

@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b1.all",
-  "name": "W4 - Bastion of the Penitent\nCairn the Indomitable\nShared Agony",
+  "name": "W4 - 懺悔者堡壘\n(Bastion of the Penitent)\n凱玲(Cairn) 分享折磨(Shared Agony)",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n• This timer is only useful if your\ngroup intentionally grabs Shared Agony.\n---顯示---\n• When each Shared Agony is applied.\n• How long each Shared Agony lasts.",
+  "description": "• 類型: 自動\n• 此計時器僅在您的隊伍刻意獲取\n分享折磨(Shared Agony)時才有用。\n---顯示---\n• 每次分享折磨施加的時間。\n• 每次分享折磨的持續時間。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B1/Cairn.png",
   "map": 1188,
@@ -17,45 +17,45 @@
       },
       "alerts": [
         //Timer Start Notification
-        { "alert": "計時器: Cairn (Shared Agony)", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: 凱玲 (分享折磨)", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B1/Cairn.png"
         },
         //When Shared Agony Ends
-        { "warning": "End: Shared Agony #1", "fillColor": [186, 80, 80, 0],
+        { "warning": "結束: 分享折磨 #1", "fillColor": [186, 80, 80, 0],
           "warningDuration": 60, "timestamps": [82, 162, 242, 322, 402, 482, 562],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "End: Shared Agony #2", "fillColor": [186, 80, 80, 0],
+        { "warning": "結束: 分享折磨 #2", "fillColor": [186, 80, 80, 0],
           "warningDuration": 60, "timestamps": [102, 182, 262, 342, 422, 502, 582],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "End: Shared Agony #3", "fillColor": [186, 80, 80, 0],
+        { "warning": "結束: 分享折磨 #3", "fillColor": [186, 80, 80, 0],
           "warningDuration": 60, "timestamps": [122, 202, 282, 362, 442, 522, 602],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "End: Shared Agony #4", "fillColor": [186, 80, 80, 0],
+        { "warning": "結束: 分享折磨 #4", "fillColor": [186, 80, 80, 0],
           "warningDuration": 60, "timestamps": [142, 222, 302, 382, 462, 542],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
         //When Shared Agony is Applied
-        { "warning": "Shared Agony #1", "fillColor": [199, 22, 22, 0],
+        { "warning": "分享折磨 #1", "fillColor": [199, 22, 22, 0],
           "warningDuration": 18, "timestamps": [22],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "Shared Agony #1", "fillColor": [199, 22, 22, 0],
+        { "warning": "分享折磨 #1", "fillColor": [199, 22, 22, 0],
           "warningDuration": 20, "timestamps": [102, 182, 262, 342, 422, 502],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "Shared Agony #2", "fillColor": [199, 22, 22, 0],
+        { "warning": "分享折磨 #2", "fillColor": [199, 22, 22, 0],
           "warningDuration": 20, "timestamps": [42, 122, 202, 282, 362, 442, 522],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "Shared Agony #3", "fillColor": [199, 22, 22, 0],
+        { "warning": "分享折磨 #3", "fillColor": [199, 22, 22, 0],
           "warningDuration": 20, "timestamps": [62, 142, 222, 302, 382, 462, 542],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         },
-        { "warning": "Shared Agony #4", "fillColor": [199, 22, 22, 0],
+        { "warning": "分享折磨 #4", "fillColor": [199, 22, 22, 0],
           "warningDuration": 20, "timestamps": [82, 162, 242, 322, 402, 482],
           "icon": "Assets/Raids/W4B1/Shared_Agony.png"
         }

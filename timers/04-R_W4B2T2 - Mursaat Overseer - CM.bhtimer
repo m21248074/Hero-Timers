@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b2.challenge",
-  "name": "W4 - Bastion of the Penitent\nMursaat Overseer CM\nBlues",
+  "name": "W4 - 懺悔者堡壘\n(Bastion of the Penitent)\n末世魔監工 挑戰(MO CM) 藍色地板",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When blue sections appear.\n• How long to move into them.",
+  "description": "• 類型: 自動\n---顯示---\n• 藍色區塊出現的時間。\n• 需要在多久時間內移動到區塊內。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B2/Mursaat_Overseer-CM.png",
   "map": 1188,
@@ -17,16 +17,16 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "計時器: Challenge Mode", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: 挑戰模式", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B2/Mursaat_Overseer.png"
         },
         //Blue Mechanic
-        { "warning": "下一波: Blue Tiles", "fillColor": [54, 102, 191, 0],
+        { "warning": "下一波: 藍色地板", "fillColor": [54, 102, 191, 0],
           "warningDuration": 26, "timestamps": [26, 56, 86, 116, 146, 176, 206, 236, 266, 296, 326, 356],
           "icon": "Assets/Raids/W4B2/Blues.png"
         },
-        { "warning": "Move", "fillColor": [54, 102, 191, 0],
+        { "warning": "移動", "fillColor": [54, 102, 191, 0],
           "warningDuration": 4, "timestamps": [30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360],
           "icon": "Assets/Raids/W4B2/Blues.png"
         }

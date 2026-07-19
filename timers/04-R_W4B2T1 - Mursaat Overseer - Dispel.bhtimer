@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w4.b2.dispel",
-  "name": "W4 - Bastion of the Penitent\nMursaat Overseer\nDispel",
+  "name": "W4 - 懺悔者堡壘\n(Bastion of the Penitent)\n末世魔監工(MO) 驅散(Dispel)",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When Jade Scouts/Soldiers get shields.",
+  "description": "• 類型: 自動\n---顯示---\n• 當翠玉偵查兵/士兵獲得護盾時。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W4B2/Mursaat_Overseer.png",
   "map": 1188,
@@ -17,16 +17,16 @@
       },
       "alerts": [
         //Timer Start
-        { "alert": "計時器: Dispel", "fillColor": [202, 175, 92, 0],
+        { "alert": "計時器: 驅散", "fillColor": [202, 175, 92, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W4B2/Mursaat_Overseer.png"
         },
         //The actual Dispel mechanic
-        { "warning": "下一波: Shield", "alert": "Dispel now", "fillColor": [202, 175, 92, 0],
+        { "warning": "下一波: 護盾", "alert": "現在驅散", "fillColor": [202, 175, 92, 0],
           "warningDuration": 10, "alertDuration": 5, "timestamps": [10],
           "icon": "Assets/Raids/W4B2/Dispel.png"
         },
-        { "warning": "下一波: Shield", "alert": "Dispel now", "fillColor": [202, 175, 92, 0],
+        { "warning": "下一波: 護盾", "alert": "現在驅散", "fillColor": [202, 175, 92, 0],
           "warningDuration": 20, "alertDuration": 5, "timestamps": [35, 60, 85, 110, 135, 160, 185, 210, 235, 260, 285, 310, 335, 360],
           "icon": "Assets/Raids/W4B2/Dispel.png"
         }
