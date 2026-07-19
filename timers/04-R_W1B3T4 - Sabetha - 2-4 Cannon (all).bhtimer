@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w1.b4.second.all",
-  "name": "W1 - Spirit Vale\nSabetha the Saboteur\nCannon 2/4",
+  "name": "W1 - 靈魂山谷(Spirit Vale)\n破壞者 薩蓓莎(Sabetha the Saboteur)\n加農砲 2/4",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When each cannon spawns.\n• Where to throw.\n• Unique timings for 2/4 cannon spawns (with trails).\n› \"Prepare\" warnings are for your cannons.",
+  "description": "• 類型: 自動\n---顯示---\n• 每個加農砲出現的時間。\n• 投擲工兵炸彈位置。\n• 2/4 加農砲出現的特殊時機 (帶有路徑)。\n› \"準備\" 警告是用於你負責的加農砲。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W1B4/Sabetha24.png",
   "map": 1062,
@@ -21,67 +21,67 @@
       //Alerts
       "alerts": [
         //Initial Notification
-        { "alert": "計時器: Cannon 2/4", "fillColor": [113, 73, 65, 0],
+        { "alert": "計時器: 加農砲 2/4", "fillColor": [113, 73, 65, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W1B4/Sabetha.png"
         },
         //South Cannon
-        { "warning": "下一波: South Cannon", "fillColor": [113, 73, 65, 0],
+        { "warning": "下一波: 南方 加農砲", "fillColor": [113, 73, 65, 0],
           "warningDuration": 30, "timestamps": [34],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.southCannon.Wcannon11"
         },
-        { "alert": "South", "fillColor": [113, 73, 65, 0],
+        { "alert": "南方", "fillColor": [113, 73, 65, 0],
           "alertDuration": 3, "timestamps": [34],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.southCannon.Acannon11"
         },
-        { "warning": "下一波: South Cannon", "fillColor": [113, 73, 65, 0],
+        { "warning": "下一波: 南方 加農砲", "fillColor": [113, 73, 65, 0],
           "warningDuration": 27, "timestamps": [154, 274, 394, 514],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.southCannon.Wcannon12"
         },
-        { "alert": "South", "fillColor": [113, 73, 65, 0],
+        { "alert": "南方", "fillColor": [113, 73, 65, 0],
           "alertDuration": 3, "timestamps": [154, 274, 394, 514],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.southCannon.Acannon12"
         },
         //West Cannon
-        { "warning": "下一波: West Cannon", "fillColor": [113, 73, 65, 0],
+        { "warning": "下一波: 西方 加農砲", "fillColor": [113, 73, 65, 0],
           "warningDuration": 27, "timestamps": [214, 454],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.westCannon.Wcannon1"
         },
-        { "alert": "West", "fillColor": [113, 73, 65, 0],
+        { "alert": "西方", "fillColor": [113, 73, 65, 0],
           "alertDuration": 3, "timestamps": [214, 454],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.westCannon.Acannon1"
         },
-        { "warning": "準備: West Cannon", "fillColor": [33, 158, 42, 0],
+        { "warning": "準備: 西方 加農砲", "fillColor": [33, 158, 42, 0],
           "warningDuration": 25, "timestamps": [62, 302],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.westCannon.Wcannon2"
         },
-        { "alert": "West", "fillColor": [33, 158, 42, 0],
+        { "alert": "西方", "fillColor": [33, 158, 42, 0],
           "alertDuration": 5, "timestamps": [62, 302],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.westCannon.Acannon2"
         },
         //North Cannon
-        { "warning": "下一波: North Cannon", "fillColor": [113, 73, 65, 0],
+        { "warning": "下一波: 北方 加農砲", "fillColor": [113, 73, 65, 0],
           "warningDuration": 27, "timestamps": [94, 334],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.northCannon.Wcannon1"
         },
-        { "alert": "North", "fillColor": [113, 73, 65, 0],
+        { "alert": "北方", "fillColor": [113, 73, 65, 0],
           "alertDuration": 3, "timestamps": [94, 334],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.northCannon.Acannon1"
         },
-        { "warning": "準備: North Cannon", "fillColor": [33, 158, 42, 0],
+        { "warning": "準備: 北方 加農砲", "fillColor": [33, 158, 42, 0],
           "warningDuration": 25, "timestamps": [182, 422],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.northCannon.Wcannon2"
         },
-        { "alert": "North", "fillColor": [33, 158, 42, 0],
+        { "alert": "北方", "fillColor": [33, 158, 42, 0],
           "alertDuration": 5, "timestamps": [182, 422],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.northCannon.Acannon2"
         },
         //East Cannon
-        { "warning": "準備: East Cannon", "fillColor": [33, 158, 42, 0],
+        { "warning": "準備: 東方 加農砲", "fillColor": [33, 158, 42, 0],
           "warningDuration": 25, "timestamps": [122, 242, 362, 482],
           "icon": "Assets/Raids/W1B4/Cannon.png", "uid": "htp.raid.w1.b4.eastCannon.Wcannon2"
         },
-        { "alert": "East", "fillColor": [33, 158, 42, 0],
+        { "alert": "東方", "fillColor": [33, 158, 42, 0],
           "alertDuration": 5, "timestamps": [122, 242, 362, 482],
           "icon": "Assets/Raids/W1B4/Sapper_Bomb.png", "uid": "htp.raid.w1.b4.eastCannon.Acannon2"
         },
