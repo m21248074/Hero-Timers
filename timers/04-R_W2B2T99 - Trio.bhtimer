@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w2.b2",
-  "name": "W2 - 救贖小道(Salvation Pass)\nBandit Trio\nGlobal Mechanics",
+  "name": "W2 - 救贖小道(Salvation Pass)\n強盜三人組(Bandit Trio)\n一般機制",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 自動\n---顯示---\n• When each boss spawns.\n• When saboteurs spawn.\n• When mortars spawn.",
+  "description": "• 類型: 自動\n---顯示---\n• 每個首領出現時。\n• 破壞者 (Saboteurs) 出現時。\n• 迫擊砲 (Mortars) 出現時。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W2B2/Narella.png",
   "map": 1149,
@@ -20,50 +20,50 @@
       },
       //Alerts
       "alerts": [
-        { "alert": "Timer: Global Mechanics", "fillColor": [194, 45, 45, 0],
+        { "alert": "計時器: 一般機制", "fillColor": [194, 45, 45, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W2B2/Narella.png"
         },
         //Boss Spawns
-        { "warning": "Spawn: Berg", "fillColor": [194, 45, 45, 0],
+        { "warning": "出現: 柏格 (Berg)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 127.7, "timestamps": [127.7],
           "icon": "Assets/Raids/W2B2/Berg.png"
         },
-        { "warning": "Spawn: Zane", "fillColor": [194, 45, 45, 0],
+        { "warning": "出現: 澤安 (Zane)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 95.5, "timestamps": [250],
           "icon": "Assets/Raids/W2B2/Zane.png"
         },
-        { "warning": "Spawn: Narella", "fillColor": [194, 45, 45, 0],
+        { "warning": "出現: 娜瑞拉 (Narella)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 97, "timestamps": [372],
           "icon": "Assets/Raids/W2B2/Narella.png"
         },
         //Saboteurs
-        { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 破壞者 (Saboteur)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 32, "timestamps": [307],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
-        { "warning": "Next: Saboteur", "alert": "Saboteur Soon", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 破壞者 (Saboteur)", "alert": "Saboteur Soon", "fillColor": [194, 45, 45, 0],
           "warningDuration": 31, "alertDuration": 8, "timestamps": [399],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
-        { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 破壞者 (Saboteur)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 30.5, "timestamps": [337.5, 368],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
-        { "warning": "Next: Saboteur", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 破壞者 (Saboteur)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 26.8, "timestamps": [154.5],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
         //Mortars
-        { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 迫擊砲 (Mortars)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 60, "timestamps": [215],
           "icon": "Assets/Raids/W2B2/Mortar.png"
         },
-        { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 迫擊砲 (Mortars)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 28, "timestamps": [335],
           "icon": "Assets/Raids/W2B2/Mortar.png"
         },
-        { "warning": "Next: Mortars", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 迫擊砲 (Mortars)", "fillColor": [194, 45, 45, 0],
           "warningDuration": 25, "timestamps": [275],
           "icon": "Assets/Raids/W2B2/Mortar.png"
         }

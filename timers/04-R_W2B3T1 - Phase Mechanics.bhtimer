@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w2.b3.phaseMechanics.normal",
-  "name": "W2 - 救贖小道(Salvation Pass)\nMatthias Gabriel\nPhase Mechanics",
+  "name": "W2 - 救贖小道(Salvation Pass)\n馬蒂亞斯 加布瑞爾(Matthias Gabrel)\n階段機制",
   "category": "決戰邁古瑪 (HoT)",
-  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\nActivate the hotkey when Matthias reaches 40% health.\n• Failed Reflect Hotkey ( Trigger Key 3 )\nActivate the hotkey anytime after a reflect\nis failed for *Human* Matthias.\n---顯示---\n• Human Matthias' Shield & Blood Shards.\n• Human Matthias' Shards of Rage (Jump) attack.\n• Blood Sacrifices.\n• Becoming an Abomination.\n• Abom Matthias' Elemental Phases.\n• Abom Matthias' Spreads.\n• Spirit spawns.",
+  "description": "• 類型: 快捷鍵 ( 觸發按鍵 0 )\n• 戰鬥開始時自動啟用。\n當馬蒂亞斯 (Matthias) 生命值降至 40% 時啟動快捷鍵。\n• 反射失敗快捷鍵 ( 觸發按鍵 3 )\n當人類形態的馬提亞斯反射失敗後，\n隨時啟動此快捷鍵。\n---顯示---\n• 人類形態馬蒂亞斯的鮮血護盾與鮮血碎片 (Blood Shards)。\n• 人類形態馬提亞斯的狂怒碎片(Shards of Rage) (跳躍) 攻擊。\n• 鮮血獻祭。\n• 轉變為憎惡。\n• 馬蒂亞斯 憎惡的元素階段。\n• 馬蒂亞斯 憎惡的分散機制。\n• 靈魂出現。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/W2B3/Matthias.png",
   "map": 1149,
@@ -21,46 +21,46 @@
       },
       "alerts": [
         //Start
-        { "alert": "Timer: Phase Mecahnics", "fillColor": [194, 45, 45, 0],
+        { "alert": "計時器: 階段機制", "fillColor": [194, 45, 45, 0],
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W2B3/Matthias.png"
         },
         //Blood Shield (37.42s / 28.8s) (Subtract -0.5s to account for how players can start fight)
-        { "warning": "Blood Shield", "fillColor": [136, 8, 8, 0],
+        { "warning": "鮮血護盾", "fillColor": [136, 8, 8, 0],
           "warningDuration": 1.57, "timestamps": [1.57],
           "icon": "Assets/Raids/W2B3/Blood_Shield.png"
         },
-        { "warning": "Blood Shield", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
+        { "warning": "鮮血護盾", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
           "warningDuration": 2.07, "timestamps": [38.99, 76.41, 113.83, 151.25, 188.67, 226.09, 263.51, 300.93, 338.35, 375.77, 413.19, 450.61, 488.03, 525.45, 562.87, 600.29, 637.71, 675.13, 712.55, 749.97, 787.39, 824.81, 862.23, 899.65, 937.07, 974.49, 1011.91, 1049.33, 1086.75, 1124.17, 1161.59, 1199.01],
           "icon": "Assets/Raids/W2B3/Blood_Shield.png"
         },
-        { "warning": "Blood Shards", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
+        { "warning": "鮮血碎片", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
           "warningDuration": 6.55, "timestamps": [8.12, 45.54, 82.96, 120.38, 157.8, 195.22, 232.64, 270.06, 307.48, 344.9, 382.32, 419.74, 457.16, 494.58, 532, 569.42, 606.84, 644.26, 681.68, 719.1, 756.52, 793.94, 831.36, 868.78, 906.2, 943.62, 981.04, 1018.46, 1055.88, 1093.3, 1130.72, 1168.14, 1205.56],
           "icon": "Assets/Raids/W2B3/Blood_Shards.png"
         },
-        { "warning": "Next: Blood Shield", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
+        { "warning": "下一波: 鮮血護盾", "fillColor": [136, 8, 8, 0], "set": "Failed_Reflect",
           "warningDuration": 14.9, "timestamps": [36.92, 74.34, 111.76, 149.18, 186.6, 224.02, 261.44, 298.86, 336.28, 373.7, 411.12, 448.54, 485.96, 523.38, 560.8, 598.22, 635.64, 673.06, 710.48, 747.9, 785.32, 822.74, 860.16, 897.58, 935, 972.42, 1009.84, 1047.26, 1084.68, 1122.1, 1159.52, 1196.94],
           "icon": "Assets/Raids/W2B3/Blood_Shield.png"
         },
         //Shards of Rage (Threw together quickly)
-        { "warning": "Next: Shards of Rage", "alert": "Shards of Rage", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
+        { "warning": "下一波: 狂怒碎片", "alert": "狂怒碎片", "fillColor": [179, 12, 12, 0], "set": "Failed_Reflect",
           "warningDuration": 10.9, "alertDuration": 3, "timestamps": [19.02, 56.44, 93.86, 131.28, 168.7, 206.12, 243.54, 280.96, 318.38, 355.8, 393.22, 430.64, 468.06, 505.48, 542.9, 580.32, 617.74, 655.16, 692.58, 730, 767.42, 804.84, 842.26, 879.68, 917.1, 954.52, 991.94, 1029.36, 1066.78, 1104.2, 1141.62, 1179.04],
           "icon": "Assets/Raids/W2B3/Blood_Shards.png"
         },
         //Sacrifices
-        { "warning": "Next: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+        { "warning": "下一波: 鮮血獻祭", "fillColor": [189, 13, 13, 0],
           "warningDuration": 15, "timestamps": [15],
           "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
         },
-        { "warning": "Next: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+        { "warning": "下一波: 鮮血獻祭", "fillColor": [189, 13, 13, 0],
           "warningDuration": 30, "timestamps": [60, 105, 150, 195, 240, 285, 330, 375, 420, 465, 510, 555, 600],
           "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
         },
-        { "warning": "Prepare: Blood Sacrifice", "fillColor": [189, 13, 13, 0],
+        { "warning": "準備: 鮮血獻祭", "fillColor": [189, 13, 13, 0],
           "warningDuration": 5, "timestamps": [20, 65, 110, 155, 200, 245, 290, 335, 380, 425, 470, 515, 560, 605],
           "icon": "Assets/Raids/W2B3/Blood_Sacrifice.png"
         },
-        { "warning": "Sacrifice!", "fillColor": [30, 153, 156, 0],
+        { "warning": "獻祭!", "fillColor": [30, 153, 156, 0],
           "warningDuration": 10, "timestamps": [30, 75, 120, 165, 210, 255, 300, 345, 390, 435, 480, 525, 570, 615],
           "icon": "Assets/General/Defiance.png"
         }
@@ -86,34 +86,34 @@
       },
       "alerts": [
         //Unstable
-        { "warning": "Becoming Unstable", "fillColor": [255, 0, 0, 0],
+        { "warning": "變得失去穩定", "fillColor": [255, 0, 0, 0],
           "warningDuration": 8.71, "timestamps": [8.71],
           "icon": "Assets/Raids/W2B3/Abomination.png"
         },
         //Elemental Phases
-        { "warning": "Next: Snowstorm", "alert": "Snowstorm", "fillColor": [118, 243, 245, 0],
+        { "warning": "下一波: 暴風雪", "alert": "暴風雪", "fillColor": [118, 243, 245, 0],
           "warningDuration": 30, "alertDuration": 30, "timestamps": [-0.5, 89.5, 179.5, 269.5, 359.5, 449.5, 539.5],
           "icon": "Assets/Raids/W2B3/Snowstorm.png"
         },
-        { "warning": "Next: Heat Wave", "alert": "Heat Wave", "fillColor": [242, 78, 7, 0],
+        { "warning": "下一波: 焦灼熱浪", "alert": "焦灼熱浪", "fillColor": [242, 78, 7, 0],
           "warningDuration": 30, "alertDuration": 30, "timestamps": [29.5, 119.5, 209.5, 299.5, 389.5, 479.5, 569.5],
           "icon": "Assets/Raids/W2B3/Heat_Wave.png"
         },
-        { "warning": "Next: Downpour", "alert": "Downpour", "fillColor": [10, 173, 81, 0],
+        { "warning": "下一波: 傾盆暴雨", "alert": "傾盆暴雨", "fillColor": [10, 173, 81, 0],
           "warningDuration": 30, "alertDuration": 30, "timestamps": [59.5, 149.5, 239.5, 329.5, 419.5, 509.5, 599.5],
           "icon": "Assets/Raids/W2B3/Downpour.png"
         },
         //Spirits
-        { "warning": "Next: Spirit", "alert": "Surrender!", "fillColor": [21, 124, 209, 0],
+        { "warning": "下一波: 靈魂", "alert": "投降!", "fillColor": [21, 124, 209, 0],
           "warningDuration": 15, "alertDuration": 15, "timestamps": [15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 405, 420, 435, 450, 465, 480, 495, 510, 525, 540, 555, 570, 585, 600],
           "icon": "Assets/Raids/W2B3/Spirit.png"
         },
         //Zealous Benediction (Spreads) (21s interval)
-        { "warning": "Next: Zealous Benediction", "alert": "Spread!", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: 狂熱賜福", "alert": "分散!", "fillColor": [158, 119, 13, 0],
           "warningDuration": 4.55, "alertDuration": 5, "timestamps": [4.55],
           "icon": "Assets/Raids/W2B3/Default.png"
         },
-        { "warning": "Next: Zealous Benediction", "alert": "Spread!", "fillColor": [158, 119, 13, 0],
+        { "warning": "下一波: 狂熱賜福", "alert": "分散!", "fillColor": [158, 119, 13, 0],
           "warningDuration": 16, "alertDuration": 5, "timestamps": [25.55, 46.55, 67.55, 88.55, 109.55, 130.55, 151.55, 172.55, 193.55, 214.55, 235.55, 256.55, 277.55, 298.55, 319.55, 340.55, 361.55, 382.55, 403.55, 424.55, 445.55, 466.55, 487.55, 508.55, 529.55, 550.55, 571.55, 592.55],
           "icon": "Assets/Raids/W2B3/Default.png"
         }
