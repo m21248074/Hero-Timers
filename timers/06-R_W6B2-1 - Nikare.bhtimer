@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b2.nikare",
-  "name": "W6 - Mythwright Gambit\nTwin Largos\nNikare's Breakbars",
+  "name": "W6 - 祕法對決(Mythwright Gambit)\n孿生蝶翼人(Twin Largos)\n尼凱爾(Nikare) 的蔑視條",
   "category": "烈焰征途 (PoF)",
-  "description": "• 類型: 自動\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Nikare P2.\n---顯示---\n• When Nikare's breakbar can be broken.",
+  "description": "• 類型: 自動\n• 注意: 如果在第二階段尼凱爾出現了兩次蔑視條，\n此計時器在第三階段將會變得不準確。\n---顯示---\n• 尼凱爾蔑視條可被擊破的時間點。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Nikare.png",
   "map": 1303,
@@ -19,7 +19,7 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "warning": "Breakbar Soon", "alert": "Break Nikare", "fillColor": [244, 240, 4, 1],
+        { "warning": "即將蔑視", "alert": "打斷 尼凱爾", "fillColor": [244, 240, 4, 1],
           "warningDuration": 20, "alertDuration": 3, "timestamps": [20, 80],
           "icon": "Assets/Raids/Nikare.png"
         }
@@ -32,7 +32,7 @@
         "requireEntry": true, "requireCombat": true
       },
       "alerts": [
-        { "warning": "Breakbar Soon", "alert": "Break Nikare", "fillColor": [244, 240, 4, 1],
+        { "warning": "即將蔑視", "alert": "打斷 尼凱爾", "fillColor": [244, 240, 4, 1],
           "warningDuration": 20, "alertDuration": 3, "timestamps": [20, 80],
           "icon": "Assets/Raids/Nikare.png"
         }

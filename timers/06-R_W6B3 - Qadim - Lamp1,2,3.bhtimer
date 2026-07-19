@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b3.lamp123",
-  "name": "W6 - Mythwright Gambit\nQadim\nLamp 1/2/3",
+  "name": "W6 - 祕法對決(Mythwright Gambit)\n卡迪姆(Qadim)\n提燈 1/2/3",
   "category": "烈焰征途 (PoF)",
-  "description": "• 類型: 自動\n• Note: If using my Marker Pack, the\nfull red arrow markers are from the timer.\n---顯示---\n• The path to take for each lamp.\n• How long until P1/2's second breakbar.",
+  "description": "• 類型: 自動\n• 注意: 若使用我的標記包，\n完整的紅色箭頭標記即為此計時器所產生。\n---顯示---\n• 每個提燈 (Lamp) 所需的路徑。\n• 距離 第一與第二階段第二次破蔑視條 (Breakbar) 的剩餘時間。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Lamp.png",
   "map": 1303,
@@ -19,7 +19,7 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "warning": "Time until 2nd CC", "fillColor": [244, 240, 4, 1],
+        { "warning": "距離第二次 CC 的剩餘時間", "fillColor": [244, 240, 4, 1],
           "warningDuration": 45, "timestamps": [45],
           "icon": "Assets/Raids/Hydra.png"
         }
@@ -54,7 +54,7 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "warning": "Time until 2nd CC",
+        { "warning": "距離第二次 CC 的剩餘時間",
           "warningDuration": 36, "timestamps": [36],
           "icon": "Assets/Raids/Destroyer.png"
         }

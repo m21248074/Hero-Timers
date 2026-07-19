@@ -1,8 +1,8 @@
 {
   "id": "htp.raid.w6.b2.kenut",
-  "name": "W6 - Mythwright Gambit\nTwin Largos\nKenut's Breakbars",
+  "name": "W6 - 祕法對決(Mythwright Gambit)\n孿生蝶翼人(Twin Largos)\n科納特(Kenut) 的蔑視條",
   "category": "烈焰征途 (PoF)",
-  "description": "• 類型: 自動\n• Note: This timer becomes inaccurate\nin P3 if 2 breakbars show on Kenut P2.\n---顯示---\n• When Kenut's breakbar can be broken.",
+  "description": "• 類型: 自動\n• 注意: 如果在第二階段科納特出現了兩次蔑視條，\n此計時器在第三階段將會變得不準確。\n---顯示---\n• 科納特蔑視條可被擊破的時間點。",
   "author": "\nQuitarHero.1645",
   "icon": "Assets/Raids/Kenut.png",
   "map": 1303,
@@ -19,7 +19,7 @@
         "requireDeparture": true
       },
       "alerts": [
-        { "warning": "Breakbar Soon", "alert": "Break Kenut", "fillColor": [244, 240, 4, 1],
+        { "warning": "即將蔑視", "alert": "打斷 科納特", "fillColor": [244, 240, 4, 1],
           "warningDuration": 20, "alertDuration": 3, "timestamps": [20, 80],
           "icon": "Assets/Raids/Kenut.png"
         }
@@ -31,7 +31,7 @@
         "requireEntry": true, "requireCombat": true
       },
       "alerts": [
-        { "warning": "Breakbar Soon", "alert": "Break Kenut", "fillColor": [244, 240, 4, 1],
+        { "warning": "即將蔑視", "alert": "打斷 科納特", "fillColor": [244, 240, 4, 1],
           "warningDuration": 20, "alertDuration": 3, "timestamps": [20, 80],
           "icon": "Assets/Raids/Kenut.png"
         }
