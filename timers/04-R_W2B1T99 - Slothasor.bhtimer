@@ -23,23 +23,23 @@
           "alertDuration": 4, "timestamps": [0],
           "icon": "Assets/Raids/W2B1/Slothasor.png"
         },
-        { "warning": "下一波: 蘑菇 #2", "alert": "Spawned: Mushroom #2", "fillColor": [24, 173, 74, 1],
+        { "warning": "下一波: 蘑菇 #2", "alert": "已生成: 蘑菇 #2", "fillColor": [24, 173, 74, 1],
           "warningDuration": 46, "alertDuration": 5, "timestamps": [50],
           "icon": "Assets/Raids/W2B1/Mushroom.png"
         },
-        { "warning": "下一波: 蘑菇 #2", "alert": "Spawned: Mushroom #2", "fillColor": [24, 173, 74, 1],
+        { "warning": "下一波: 蘑菇 #2", "alert": "已生成: 蘑菇 #2", "fillColor": [24, 173, 74, 1],
           "warningDuration": 45, "alertDuration": 5, "timestamps": [250],
           "icon": "Assets/Raids/W2B1/Mushroom.png"
         },
-        { "warning": "下一波: 蘑菇 #3", "alert": "Spawned: Mushroom #3", "fillColor": [24, 173, 74, 0],
+        { "warning": "下一波: 蘑菇 #3", "alert": "已生成: 蘑菇 #3", "fillColor": [24, 173, 74, 0],
           "warningDuration": 45, "alertDuration": 5, "timestamps": [100, 300],
           "icon": "Assets/Raids/W2B1/Mushroom.png"
         },
-        { "warning": "下一波: 蘑菇 #4", "alert": "Spawned: Mushroom #4", "fillColor": [24, 173, 74, 0],
+        { "warning": "下一波: 蘑菇 #4", "alert": "已生成: 蘑菇 #4", "fillColor": [24, 173, 74, 0],
           "warningDuration": 45, "alertDuration": 5, "timestamps": [150, 350],
           "icon": "Assets/Raids/W2B1/Mushroom.png"
         },
-        { "warning": "下一波: 蘑菇 #1", "alert": "Spawned: Mushroom #1", "fillColor": [24, 173, 74, 0],
+        { "warning": "下一波: 蘑菇 #1", "alert": "已生成: 蘑菇 #1", "fillColor": [24, 173, 74, 0],
           "warningDuration": 45, "alertDuration": 5, "timestamps": [200, 400],
           "icon": "Assets/Raids/W2B1/Mushroom.png"
         },

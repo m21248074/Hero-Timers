@@ -42,7 +42,7 @@
           "warningDuration": 32, "timestamps": [307],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
-        { "warning": "下一波: 破壞者 (Saboteur)", "alert": "Saboteur Soon", "fillColor": [194, 45, 45, 0],
+        { "warning": "下一波: 破壞者 (Saboteur)", "alert": "破壞者即將出現", "fillColor": [194, 45, 45, 0],
           "warningDuration": 31, "alertDuration": 8, "timestamps": [399],
           "icon": "Assets/Raids/W2B2/Saboteur.png"
         },
